@@ -628,7 +628,7 @@
                                                     <img class="img secondary-img" src="img/allproducts/products__thumb__09.jpg" alt="">
                                                 </a>
                                             </div>
-                                            <div class="product__content--top">
+                                                <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>

@@ -16,11 +16,11 @@
     <link rel="stylesheet" href="css/meanmenu.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
- <?php include '../../assets/head.php';?>
+ <?php include 'assets/head.php';?>
 </head>
 
 <body>
-       <?php include '../../assets/body.php';?>
+       <?php include 'assets/body.php';?>
 
 
         <!-- Header -->

@@ -13,7 +13,7 @@
                                     </div>
                                     <div class="contacts-address--text">
                                         <span>Got Questions? Call Us 24/7</span>
-                                        <h5 class="f-800">+91 90410 54080 </h5>
+                                        <h5 class="f-800"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">+91 90410 54080</a> </h5>
                                     </div>
                                 </div>
                                 <div class="contacts-address--footer">
@@ -28,7 +28,7 @@
                                 </div>
                                 <div class="footer-menu">
                                     <ul>
-                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="https://heritageappreals.com/about.php">About Us</a></li>
                                         <li><a href="#">Careers</a></li>
                                         <li><a href="#">Press Releases</a></li>
                                         <li><a href="#">Cart Cares</a></li>
@@ -63,11 +63,11 @@
                                 </div>
                                 <div class="footer-menu h1foote-menu2">
                                     <ul>
-                                        <li><a href="#">Your Account</a></li>
-                                        <li><a href="#">Returns Centre</a></li>
-                                        <li><a href="#">100% Purchase Protection</a></li>
+                                        <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Your Account</a></li>
+                                        <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Returns Centre</a></li>
+                                        <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">100% Purchase Protection</a></li>
                                         <!-- <li><a href="#">Cartbit App Download</a></li> -->
-                                        <li><a href="#">Help</a></li>
+                                        <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Help</a></li>
                                     </ul>
                                 </div>
                             </div>
