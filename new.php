@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Get Best Clothing Menuc</title>
+    <title>Get Best Clothing Menucfering in the Ludhiana | Heritage Appreals</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
