@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Men Cotton Fleece Hoodie Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Men Cotton Fleece Hoodie Manufacturer | Get ">
+    <title>Wholesale Plain Men Cotton Fleece Hoodie – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Buy Plain Men Cotton Fleece Hoodies in bulk from Heritage Appreals, Ludhiana. Designed for B2B buyers seeking premium quality hoodies for retail and corporate needs.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

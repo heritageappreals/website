@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Fleece Mens Hoodie Manufecturer | Heritage Appreals</title>
-    <meta name="description" content="Best Fleece Mens Hoodie Manufecturer | Get ">
+    <title>Fleece Mens Hoodies – Wholesale & Export – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Source Fleece Mens Hoodies in bulk from Heritage Appreals, Ludhiana. Designed for warmth, durability, and large-scale supply.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

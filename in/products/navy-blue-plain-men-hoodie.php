@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>3 Thread Cotton Fleece Hoodie Manufecturer | Heritage Appreals</title>
-    <meta name="description" content="Best 3 Thread Cotton Fleece Hoodie Manufecturer | Get ">
+    <title>Navy Blue Plain Men Zipper Hoodies – Wholesale Supply | Heritage Appreals</title>
+    <meta name="description" content="Heritage Appreals manufactures navy blue plain men’s zipper hoodies in bulk. Durable fleece fabric, perfect for corporate wear, retail brands, and export orders.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

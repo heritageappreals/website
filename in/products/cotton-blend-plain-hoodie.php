@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Cotton Blend Plain Hoodie Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Cotton Blend Plain Hoodie Manufacturer | Get ">
+    <title>Wholesale Cotton Blend Plain Hoodies for Men – Minimalist Style – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Buy Cotton Blend Plain Hoodies in bulk from Heritage Appreals, Ludhiana. Featuring a clean design, soft fabric, and durable stitching—ideal for wholesale supply, corporate wear, and retail resale.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

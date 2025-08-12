@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Fleece Full Sleeves Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Fleece Full Sleeves Sweatshirt Manufacturer | Get ">
+    <title>Fleece Full Sleeves Sweatshirt – Wholesale Winter Wear | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana supplies fleece full sleeves sweatshirts in bulk for retailers, corporates, and exporters. Warm, durable, and perfect for branding or winter collections.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

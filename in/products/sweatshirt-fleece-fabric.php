@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Sweatshirt Fleece Fabric Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Sweatshirt Fleece Fabric Manufacturer | Get ">
+    <title>Sweatshirt Fleece Fabric – Wholesale Supply for Hoodies & Sweatshirts | Heritage Appreals</title>
+    <meta name="description" content="Bulk supply of premium sweatshirt fleece fabric from Heritage Appreals. Ideal for manufacturing hoodies, sweatshirts, and winter wear with softness, warmth, and durability.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

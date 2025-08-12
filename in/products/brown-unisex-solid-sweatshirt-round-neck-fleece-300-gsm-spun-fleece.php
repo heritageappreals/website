@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Brown Unisex Solid Sweatshirt Round Neck Fleece 300 GSM Spun Fleece Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Brown Unisex Solid Sweatshirt Round Neck Fleece 300 GSM Spun Fleece Manufacturer | Get ">
+    <meta name="description" content="Buy premium Brown Unisex Solid Sweatshirts in 300 GSM spun fleece from Heritage Appreals, Ludhiana. Ideal for wholesale, export, and corporate winter wear orders.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Black Cotton Hoodie with Kangaroo Pocket Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Black Cotton Hoodie with Kangaroo Pocket Manufacturer | Get ">
+    <title>Wholesale Black Cotton Hoodie with Kangaroo Pocket – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Buy Black Cotton Hoodies with Kangaroo Pocket in bulk from Heritage Appreals, Ludhiana. Perfect for wholesale supply, retail resale, and corporate branding.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

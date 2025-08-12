@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Cotton Blend Mens Hoodie Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Cotton Blend Mens Hoodie Manufacturer | Get ">
+    <title>Bulk Cotton Blend Mens Hoodies – Stylish Comfort – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Get Cotton Blend Mens Hoodies in bulk from Heritage Appreals, Ludhiana. Perfect for B2B clients, retailers, and exporters looking for high-quality, stylish, and comfortable hoodies.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

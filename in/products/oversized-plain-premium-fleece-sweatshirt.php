@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Oversized Plain Premium Fleece Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Oversized Plain Premium Fleece Sweatshirt Manufacturer | Get ">
+    <title>Oversized Plain Premium Fleece Sweatshirt – Wholesale Winter Wear | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers oversized plain premium fleece sweatshirts for bulk supply. Perfect for retailers, corporate wear, and custom branding needs.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

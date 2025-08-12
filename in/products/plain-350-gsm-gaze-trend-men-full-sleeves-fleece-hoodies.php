@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain 350 GSM Gaze Trend Men Full Sleeves Fleece Hoodie Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best 3 Plain 350 GSM Gaze Trend Men Full Sleeves Fleece Hoodie Manufacturer | Get ">
+    <title>350 GSM Plain Gaze Trend Men Full Sleeves Fleece Hoodies – Wholesale – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Order 350 GSM Plain Gaze Trend Full Sleeves Fleece Hoodies in bulk from Heritage Appreals, Ludhiana. Heavyweight, warm, and ideal for wholesale supply and export orders.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Fleece Men Blue Full Sleeve Hooded Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Fleece Men Blue Full Sleeve Hooded Sweatshirt Manufacturer | Get ">
+    <title> Fleece Men’s Blue Full Sleeve Hooded Sweatshirt – Bulk Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers men’s blue full sleeve fleece hooded sweatshirts for wholesale and export. Warm, stylish, and perfect for corporate wear, retail, and custom branding.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

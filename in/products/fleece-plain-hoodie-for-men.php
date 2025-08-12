@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Fleece Plain Hoodie For Men  Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Fleece Plain Hoodie For Men Manufacturer | Get ">
+    <title>Wholesale Fleece Plain Hoodies for Men – Soft & Stylish – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Order Fleece Plain Hoodies for Men in wholesale quantities from Heritage Appreals, Ludhiana. Premium fleece quality ideal for resale, team uniforms, and promotional branding.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Pullover Mens Round Neck Fleece Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Pullover Mens Round Neck Fleece Sweatshirt Manufacturer | Get ">
+    <title>Plain Pullover Men’s Round Neck Fleece Sweatshirt – Bulk Winter Wear | Heritage Appreals</title>
+    <meta name="description" content="Heritage Appreals supplies plain pullover men’s round neck fleece sweatshirts for bulk orders. Premium fabric, durable stitching, and ideal for custom printing & winter apparel distribution.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

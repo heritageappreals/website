@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>High GSM Plain Spun Fleece Hoodie Manufecturer | Heritage Appreals</title>
-    <meta name="description" content="Best HIgh GSM Plain Spun Fleece Hoodie Manufecturer | Get ">
+    <title>High GSM Plain Spun Fleece Hoodie – Bulk Winter Wear | Heritage Appreals</title>
+    <meta name="description" content="Order premium high GSM plain spun fleece hoodies from Heritage Appreals. Designed for warmth, durability, and style—ideal for wholesale, corporate wear, and export markets.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

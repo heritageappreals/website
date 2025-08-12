@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Cotton Fleece Sweatshirts Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Cotton Fleece Sweatshirts Manufacturer | Get ">
+    <title>Cotton Fleece Sweatshirts – Bulk Supplier & Exporter | Heritage Appreals Ludhiana/title>
+    <meta name="description" content="Heritage Appreals, Ludhiana supplies premium cotton fleece sweatshirts for wholesale and export. Perfect for retailers, corporates, and custom branding. Warm, durable, and stylish winter wear.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Cotton Plain Black Basic Premium Fleece Full Sleeve Sweat Shirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Cotton Plain Black Basic Premium Fleece Full Sleeve Sweat Shirt Manufacturer | Get ">
+    <title>Cotton Plain Black Premium Fleece Full Sleeve Sweatshirt – Bulk Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers premium cotton plain black fleece full sleeve sweatshirts for wholesale and export. Ideal for retail, corporate wear, and custom branding. Durable and stylish winter apparel.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

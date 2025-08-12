@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Men Cotton Plain Sweatshirt Unisex Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Men Cotton Plain Sweatshirt Unisex Manufacturer | Get ">
+    <title>Men’s Cotton Plain Sweatshirt – Unisex Wholesale Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers unisex men’s cotton plain sweatshirts for bulk purchase. Soft, durable, and ideal for retail, corporate branding, and export markets.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

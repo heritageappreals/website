@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>V-Neck Woollen Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best V-Neck Woollen Sweatshirt Manufacturer | Get ">
+    <title>V-Neck Woollen Sweatshirts – Bulk Winter Wear Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Heritage Appreals offers premium V-neck woollen sweatshirts for wholesale supply. Warm, stylish, and perfect for corporate, retail, and export winter wear needs.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

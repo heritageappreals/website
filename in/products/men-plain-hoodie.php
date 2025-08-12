@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Men Plain Hoodie</title>
-    <meta name="description" content="Best 3 Thread Cotton Fleece Hoodie Manufecturer | Get ">
+    <title>Mens Plain Hoodies – Wholesale & Bulk Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Buy men’s plain hoodies in bulk from Heritage Appreals, Ludhiana. Premium fleece and cotton blends, ideal for retailers, corporate orders, and export requirements.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

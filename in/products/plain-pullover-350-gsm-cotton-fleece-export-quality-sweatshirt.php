@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Pullover 350 GSM COTTON FLEECE Export Quality SWEAT SHIRT Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Pullover 350 GSM COTTON FLEECE Export Quality SWEAT SHIRT Manufacturer | Get ">
+    <title>Plain Pullover 350 GSM Cotton Fleece Sweatshirt – Export Quality | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana manufactures export-quality plain pullover sweatshirts in 350 GSM cotton fleece. Ideal for bulk supply, custom branding, and winter wear distribution.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

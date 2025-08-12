@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Round Neck Mens Plain Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Round Neck Mens Plain Sweatshirt Manufacturer | Get ">
+    <title>Round Neck Men’s Plain Sweatshirt – Bulk Supply | Heritage Appreals</title>
+    <meta name="description" content="Heritage Appreals offers round neck men’s plain sweatshirts in bulk. Perfect for corporate wear, retail, and custom branding with durable stitching and premium fabric.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

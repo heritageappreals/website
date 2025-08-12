@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Cotton Fleece Sweatshirts Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Cotton Fleece Sweatshirts Manufacturer | Get ">
+    <title>Plain Cotton Fleece Sweatshirts – Bulk Wholesale Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana manufactures and supplies plain cotton fleece sweatshirts in bulk. Ideal for winter wear, corporate uniforms, and custom printing. ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

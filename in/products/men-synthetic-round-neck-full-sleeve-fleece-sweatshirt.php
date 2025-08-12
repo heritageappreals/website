@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Men Synthetic Round Neck Full Sleeve Fleece Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Men Synthetic Round Neck Full Sleeve Fleece Sweatshirt Manufacturer | Get ">
+    <title>Men’s Synthetic Round Neck Full Sleeve Fleece Sweatshirt – Wholesale Supplier | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="High-quality synthetic fleece round neck sweatshirts with full sleeves, supplied in bulk by Heritage Appreals, Ludhiana. Ideal for winter wear, uniforms, and export orders.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Fleece Plain Mens Sweatshirt 280 Gsm Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Fleece Plain Mens Sweatshirt 280 Gsm Manufacturer | Get ">
+    <title>Fleece Plain Men’s Sweatshirt 280 GSM – Wholesale Winter Apparel | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana supplies 280 GSM fleece plain men’s sweatshirts in bulk. Durable, warm, and ideal for corporate wear, retail brands, and export orders.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

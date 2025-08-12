@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Sweatshirt Manufacturer | Get ">
+    <title>Sweatshirts – Bulk Winter Wear Supply for Men & Women | Heritage Appreals</title>
+    <meta name="description" content="Wholesale supplier of premium sweatshirts from Heritage Appreals. Comfortable, durable, and customizable options for corporate, retail, and export needs.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

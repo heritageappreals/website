@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Heavy Winter 3 Thread Cotton Fleece Sweatshirt 350 Gsm Sweatshirt For Men Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Heavy Winter 3 Thread Cotton Fleece Sweatshirt 350 Gsm Sweatshirt For Men Manufacturer | Get ">
+    <title>350 GSM Heavy Winter 3-Thread Cotton Fleece Sweatshirt for Men – Bulk Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Buy premium 350 GSM heavy winter 3-thread cotton fleece sweatshirts for men in bulk from Heritage Appreals, Ludhiana. Warm, durable, and perfect for wholesale, corporate wear, and export. ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

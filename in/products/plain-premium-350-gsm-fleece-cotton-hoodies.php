@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Plain PREMIUM 350 GSM FLEECE COTTON HOODIES Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain PREMIUM 350 GSM FLEECE COTTON HOODIES Manufacturer | Get ">
+    <title>Plain Premium 350 GSM Fleece Cotton Hoodies – Bulk Manufacturer | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers premium 350 GSM fleece cotton hoodies in plain designs for bulk orders. Perfect for winter wear, customization, and corporate apparel.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Black Cotton Fleece Hoodies Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Black Cotton Fleece Hoodies Manufacturer | Get ">
+    <title>Black Cotton Fleece Hoodies – Bulk Wholesale & Export | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Order premium Black Cotton Fleece Hoodies in bulk from Heritage Appreals, Ludhiana. Perfect for wholesale, export, and corporate winter wear requirements.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

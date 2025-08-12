@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Cotton Fleece Hoodies Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Cotton Fleece Hoodies Manufacturer | Get ">
+    <title>Cotton Fleece Hoodies – Wholesale Winter Wear Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Order high-quality cotton fleece hoodies from Heritage Appreals, Ludhiana. Perfect for bulk buying, corporate wear, and export markets. Soft, durable, and warm for all seasons.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

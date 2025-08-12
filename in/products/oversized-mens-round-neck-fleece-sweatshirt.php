@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Oversized Mens Round Neck Fleece Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Oversized Mens Round Neck Fleece Sweatshirt Manufacturer | Get ">
+    <title>Oversized Men’s Round Neck Fleece Sweatshirt – Bulk & Export Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana supplies oversized men’s round neck fleece sweatshirts in bulk. Premium quality for winter wear, fashion retailers, and custom branding.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

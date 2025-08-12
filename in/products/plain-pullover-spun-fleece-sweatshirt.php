@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Pullover Spun Fleece Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Pullover Spun Fleece Sweatshirt Manufacturer | Get ">
+    <title>Plain Pullover Spun Fleece Sweatshirt – Wholesale Supply | Heritage Appreals</title>
+    <meta name="description" content="Heritage Appreals offers plain pullover spun fleece sweatshirts in bulk for retailers and corporate wear. Soft texture, long-lasting quality, and perfect for custom branding.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Plain Spun Fleece Hoodie Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Spun Fleece Hoodie Manufacturer | Get ">
+    <title>Plain Spun Fleece Hoodie – Wholesale Supply | Heritage Appreals</title>
+    <meta name="description" content="Buy plain spun fleece hoodies in bulk from Heritage Appreals. Perfect for corporate orders, retail, and custom printing with soft, durable spun fleece fabric.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

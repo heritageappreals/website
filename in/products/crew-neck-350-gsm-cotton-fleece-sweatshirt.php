@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Crew Neck 350 GSM Cotton fleece sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Crew Neck 350 GSM Cotton fleece sweatshirt Manufacturer | Get ">
+    <title>Crew Neck 350 GSM Cotton Fleece Sweatshirt – Bulk Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers 350 GSM cotton crew neck fleece sweatshirts for wholesale and export. Heavyweight, durable, and ideal for retail, corporate wear, and custom printing.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

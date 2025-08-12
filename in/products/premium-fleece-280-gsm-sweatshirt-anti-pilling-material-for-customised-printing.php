@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Premium Fleece 280 Gsm Sweatshirt Anti Pilling Material for Customised Printing Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Premium Fleece 280 Gsm Sweatshirt Anti Pilling Material for Customised Printing Manufacturer | Get ">
+    <title>Premium 280 GSM Fleece Sweatshirt – Anti-Pilling | Bulk Supply by Heritage Appreals</title>
+    <meta name="description" content="Order premium 280 GSM anti-pilling fleece sweatshirts from Heritage Appreals. Ideal for wholesale, corporate wear, and customised printing with long-lasting quality.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

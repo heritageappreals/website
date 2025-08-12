@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Spun Fleece Hoodie Manufecturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Spun Fleece Hoodie Manufecturer | Get ">
+    <title>Bulk Supply – Plain Spun Fleece Hoodies for Men – Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Source Plain Spun Fleece Hoodies for Men directly from Heritage Appreals, Ludhiana. Designed for B2B supply, these hoodies are perfect for bulk orders, corporate wear, and retail collections.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Navy Blue Men Fleece Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Navy Blue Men Fleece Sweatshirt Manufacturer | Get ">
+    <title>Plain Navy Blue Men Fleece Sweatshirt – Wholesale Winter Clothing | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers plain navy blue men’s fleece sweatshirts for bulk orders. Perfect for retailers, winter wear collections, and corporate customization.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

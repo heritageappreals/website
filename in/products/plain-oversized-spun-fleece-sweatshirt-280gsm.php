@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Plain Oversized Spun Fleece Sweatshirt 280gsm Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Oversized Spun Fleece Sweatshirt 280gsm Manufacturer | Get ">
+    <title>Plain Oversized Spun Fleece Sweatshirt 280 GSM – Bulk Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana manufactures plain oversized spun fleece sweatshirts (280 GSM) for wholesale orders. Ideal for winter fashion, branding, and corporate wear.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

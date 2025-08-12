@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> 350 GSM Fleece Hoodie Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best 350 GSM Fleece Hoodie Manufacturer | Get ">
+    <title>350 GSM Fleece Hoodie – Heavyweight Bulk Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Source premium 350 GSM Fleece Hoodies in bulk from Heritage Appreals, Ludhiana. Ideal for wholesale, export, and corporate winter wear orders.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

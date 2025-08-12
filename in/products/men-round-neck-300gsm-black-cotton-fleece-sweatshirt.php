@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Men Round Neck 300 GSM Black Cotton Fleece Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Men Round Neck 300 GSM Black Cotton Fleece Sweatshirt Manufacturer | Get ">
+    <title>Men’s Round Neck 300 GSM Black Cotton Fleece Sweatshirt – Bulk Supplier | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Heritage Appreals, Ludhiana offers 300 GSM black cotton fleece round neck sweatshirts for wholesale. Perfect for winter wear, corporate branding, and export markets.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

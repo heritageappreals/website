@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Plain Pullover White Fleece Hooded Mens Sweatshirt Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Plain Pullover White Fleece Hooded Mens Sweatshirt Manufacturer | Get ">
+    <title>Plain Pullover White Fleece Hooded Men’s Sweatshirt – Bulk Supply | Heritage Appreals</title>
+    <meta name="description" content="Source premium plain pullover white fleece hooded sweatshirts from Heritage Appreals. Ideal for wholesale, corporate wear, and custom branding with soft, durable fleece fabric.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
