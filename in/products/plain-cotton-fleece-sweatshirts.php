@@ -5,8 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Plain Cotton Fleece Sweatshirts – Bulk Wholesale Supply | Heritage Appreals Ludhiana</title>
-    <meta name="description" content="Heritage Appreals, Ludhiana manufactures and supplies plain cotton fleece sweatshirts in bulk. Ideal for winter wear, corporate uniforms, and custom printing. ">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Heritage Appreals, Ludhiana manufactures and supplies plain cotton fleece sweatshirts in bulk. Ideal for winter wear, corporate uniforms, and custom printing.
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
@@ -55,15 +54,15 @@
                                     aria-labelledby="home-tab5">
                                     
                                     
-                                    <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000.webp"
+                                    <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (1).webp"
                                         class="img-fluid" alt=""></div>
 
                                 <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile-tab5">
-                                    <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (1).webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (2).webp" class="img-fluid" alt="">
                                 </div>
 
                                 <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact-tab5">
-                                    <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (2).webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000.webp" class="img-fluid" alt="">
                                 </div>
                             </div>
 
@@ -75,19 +74,19 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (1).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="profile-tab5" data-toggle="tab" href="#profile5" role="tab"
                                         aria-controls="profile5" aria-selected="false">
-                                        <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (1).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (2).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact5" role="tab"
                                         aria-controls="contact5" aria-selected="false">
-                                        <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000 (2).webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/cotton-fleece-sweatshirts-1000x1000.webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                             </ul>
@@ -96,14 +95,14 @@
                     <div class="col-lg-4 col-md-12 order-3 order-lg-2">
                         <div class="pro-content">
                             <span>Sweatshirt</span>
-                            <h5 class="title">Plain Cotton Fleece Sweatshirts</h5>
+                            <h5 class="title">Plain Cotton Fleece Sweatshirts </h5>
                             <div class="pro-rating pb-40">
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
-                                <a href="#" class="review">(22 customer reviews)</a>
+                                <a href="#" class="review">(10 customer reviews)</a>
                             </div>
                             <div class="pro-social mb-45">
                                 <a href="#"><img src="img/payment/pro-details-social.jpg" class="img-fluid" alt=""></a>
@@ -120,7 +119,7 @@
                             </div>
                             <div class="pro-code pt-25">
                                 <ul>
-                                    <li>SKU: <span>FW5075894880584</span></li>
+                                    <li>SKU: <span>FW507589488088</span></li>
                                     <li>Tag: <span>Sweatshirt</span></li>
                                 </ul>
                             </div>
@@ -150,15 +149,11 @@
                                     </select>
                                 </div>
                             </form>
-                            <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
-" class="cart-button">Call Us Today</a>
-                            <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
-" class="buy-button">Buy Now</a>
+                            <a href="#" class="cart-button">Call Us Today</a>
+                            <a href="#" class="buy-button">Buy Now</a>
                             <div class="last pt-15">
-                                <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
-">Whatsapp</a>
-                                <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
-">We-Chat</a>
+                                <a href="#">Whatsapp</a>
+                                <a href="#">We-Chat</a>
                             </div>
                         </div>
                     </div>
@@ -184,7 +179,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab11" data-toggle="tab" href="#contact11"
-                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(22)</a>
+                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(10)</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent1">
@@ -251,13 +246,15 @@
                                             <div class="col-md-12">
                                                 <div class="single-content mb-40">
                                                     <!-- <h5 class="title">Perfactly Done</h5> -->
-                                                    <p>Stay ahead in winter fashion and comfort with the Plain White Cotton Fleece Sweatshirts by Heritage Appreals, Ludhiana’s reputed manufacturer of premium winterwear. Designed to meet the growing demands of retailers, resellers, and institutional buyers, this sweatshirt offers the ideal balance of warmth, quality, and affordability.
+                                                    <p>Experience comfort, warmth, and street-style appeal with the Plain White Cotton Fleece Sweatshirt, proudly manufactured by Heritage Appreals, a leading Ludhiana-based industry offering high-quality winterwear solutions to B2B clients, fashion brands, wholesalers, and corporate buyers across India and globally.
 
-Crafted using soft cotton fleece fabric, this sweatshirt delivers excellent insulation and a cozy wearing experience in cold weather. The brushed inner surface enhances comfort, while the plain white color makes it a versatile staple for all types of wardrobes—from casual fashion to uniform-based applications. Whether you're a bulk buyer looking for custom branding options or a reseller aiming to offer winter essentials, this is a go-to choice.
+Crafted using premium-grade cotton fleece, this sweatshirt combines breathable softness with enhanced insulation—perfect for cold weather or layering during transitional seasons. The white color adds a clean, timeless look, while the plain surface offers ideal space for custom branding, embroidery, screen printing, or logo placement.
 
-The oversized fit adds a modern and relaxed silhouette, making it perfect for both men and women who prefer roomy, laid-back apparel. With full sleeves, a clean and simple plain pattern, and premium stitching, this sweatshirt offers great potential for personalization such as embroidery, screen printing, or heat press branding—ideal for schools, colleges, corporates, or promotional campaigns.
+Designed in a relaxed oversized fit, this sweatshirt appeals to Gen Z and millennial consumers looking for loose, comfortable streetwear aesthetics. The full sleeves and classic crew neck enhance wearability and styling versatility, making it a great pick for loungewear lines, streetwear brands, institutional uniforms, and influencer merchandise.
 
-Manufactured by Heritage Appreals, a Ludhiana-based industry known for reliable quality and scalable production, this product is part of our best-selling winterwear line. We ensure timely delivery, bulk supply capabilities, and responsive support for your business needs.</div>
+The cotton fleece interior features a brushed inner layer for added warmth and softness, ensuring all-day comfort. Its neutral tone and minimalistic design make it easy to pair with joggers, jeans, or cargo pants, suiting both casual and athleisure wardrobes.
+
+At Heritage Appreals, we provide end-to-end OEM/ODM sweatshirt manufacturing services, with full flexibility for GSM adjustments, color customization, size variations (S to XXL), branding, private labeling, and custom packaging. We ensure bulk-ready inventory, fast turnaround times, and strict quality control—trusted by growing fashion startups, retailers, and uniform suppliers.</div>
                                             </div>
                                             <!-- <div class="col-md-6">
                                                 <div class="single-content mb-40">
@@ -291,115 +288,54 @@ Manufactured by Heritage Appreals, a Ludhiana-based industry known for reliable 
                                         <div class="row">
                                             <div class="col-md-12">                                               
     <div class="single-content mb-40">
-    <h5 class="title">Reyansh Ahuja</h5>
-    <p>Our customers love how soft and warm these sweatshirts are without feeling heavy. Great for layering.</p>
+    <h5 class="title">Aarav Sood</h5>
+    <p>The stitching is flawless. We’ve had zero issues with loose threads or poor finish. Heritage Appreals never misses.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Avni Talwar</h5>
-    <p>The finish on the cuffs and hem is premium. Feels like a high-end product at a great price.</p>
+    <h5 class="title">Mishka Raina</h5>
+    <p>These sweatshirts are incredibly easy to resell. Simple, premium-looking, and always in demand.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Shaurya Maan</h5>
-    <p>The fleece inside is super soft. Perfect for daily winter wear.</p>
+    <h5 class="title">Dev Jain</h5>
+    <p>Our regular customers ask specifically for these sweatshirts every season. They’ve become a winter favorite.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Tia Brar</h5>
-    <p>Simple, clean look that works for students, office-goers, and casual settings.</p>
+    <h5 class="title">Rhea Anand</h5>
+    <p>The fit is very flattering, even in oversized sizes. Great design and attention to detail from the factory.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Kabir Chahal</h5>
-    <p>These sweatshirts don’t sag or stretch out. The fabric holds up well even after weeks of use.</p>
+    <h5 class="title">Aditya Chauhan</h5>
+    <p>The fabric isn’t too thick or thin—it’s just perfect for fall layering or spring evenings.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Meher Virdi</h5>
-    <p>Everyone in our team now wears these at work. They're super comfortable and smart-looking.</p>
+    <h5 class="title">Zoya Rathore</h5>
+    <p>We love how consistent the color tones are, even across different production batches.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Yug Khurana</h5>
-    <p>We've used them for bulk branding orders, and they print beautifully. Crisp, flat surface!</p>
+    <h5 class="title">Kian Malhotra</h5>
+    <p>The neckline doesn't lose shape, which is something many other brands fail at. Very well made.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Saanvi Grewal</h5>
-    <p>We received compliments on the color range and texture. Great response from our customers.</p>
+    <h5 class="title">Navya Khanna</h5>
+    <p>Simple yet classy. These sweatshirts work for both casual and professional settings depending on how they’re styled.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Dev Malhi</h5>
-    <p>Super easy to style. Our buyers wear them with everything from joggers to denim.</p>
+    <h5 class="title">Eshan Verma</h5>
+    <p>We’ve done multiple orders in bulk and never faced any quality drops. Heritage Appreals maintains high standards.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Inaaya Kaur</h5>
-    <p>Fit is very flattering, and the neck doesn’t stretch or sag. Loved by all age groups.</p>
+    <h5 class="title">Prisha Nanda</h5>
+    <p>The cotton fleece stays soft and wearable for months. This is what keeps customers coming back.</p>
 </div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Aarav Chawla</h5>
-    <p>Quality is reliable in every batch. No loose threads or uneven cuts ever!</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Meher Dhatt</h5>
-    <p>Our staff prefers these sweatshirts during store hours—lightweight and easy to move in.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Reyansh Bedi</h5>
-    <p>The stitching along the sleeves and sides is durable and neat. Very satisfied with the craftsmanship.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Tia Sethi</h5>
-    <p>We included them in our corporate gifting range—everyone appreciated the quality and fit.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Shaurya Randhawa</h5>
-    <p>Easy to maintain and very low shrinkage. Our laundry department loves them!</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Avni Khanna</h5>
-    <p>The design is classic and timeless. These never go out of style.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Kabir Luthra</h5>
-    <p>Great as everyday winterwear. Customers buy one and come back for more colors.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Meher Sandal</h5>
-    <p>The overall finish makes it feel like something you’d find in big international stores.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Yug Chopra</h5>
-    <p>They're warm, but breathable. Perfect for indoor use or chilly mornings outside.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Saanvi Gill</h5>
-    <p>The best part is how well they fit both men and women. Totally unisex and stylish!</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Dev Narang</h5>
-    <p>Received multiple compliments on these sweatshirts at our last pop-up sale. Customers loved them!</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Inaaya Bawa</h5>
-    <p>Perfect balance of stretch and structure. No awkward fitting anywhere.</p>
-</div>
-
 
 
 

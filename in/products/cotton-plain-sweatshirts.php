@@ -1,0 +1,452 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Cotton Plain Sweatshirts – Bulk Supplier & Exporter | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Comfortable cotton plain sweatshirts available for wholesale. Suitable for retail and corporate buyers.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
+    <!-- Place favicon.ico in the root directory -->
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="css/meanmenu.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+        <?php include '../../assets/head.php';?>
+</head>
+
+<body>
+<?php include '../../assets/body.php';?>
+    <!-- Header -->
+    <?php include '../../assets/header.php';?>
+    <!-- Header end /-->
+
+    <!-- Main -->
+    <main class="main--wrapper">
+
+
+        <!-- Shop-details start -->
+        <section class="shop-details-area pb-80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="shop-bred pt-35 pb-35">
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
+                                    <li class="breadcrumb-item"><a href="index-2.html">Winter Collection</a></li>
+                                    <li class="breadcrumb-item"><a href="index-2.html">Sweatshirt</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">Cotton Plain Sweatshirts
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-5 col-md-6 order-1 order-lg-1">
+                        <div class="pro-img">
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="home5" role="tabpanel"
+                                    aria-labelledby="home-tab5">
+                                    
+                                    
+                                    <img src="img/productimages/sweatshirts-1000x1000 (1) 1.jpg"
+                                        class="img-fluid" alt=""></div>
+
+                                <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile-tab5">
+                                    <img src="img/productimages/sweatshirts-1000x1000 (2) 1.jpg" class="img-fluid" alt="">
+                                </div>
+
+                                <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact-tab5">
+                                    <img src="img/productimages/sweatshirts-1000x1000 (1) 1.jpg" class="img-fluid" alt="">
+                                </div>
+                            </div>
+
+
+
+
+
+                            <ul class="nav" id="myTab1" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
+                                        aria-controls="home5" aria-selected="true">
+                                        <img src="img/productimages/sweatshirts-1000x1000 (1) 1.jpg" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="profile-tab5" data-toggle="tab" href="#profile5" role="tab"
+                                        aria-controls="profile5" aria-selected="false">
+                                        <img src="img/productimages/sweatshirts-1000x1000 (2) 1.jpg" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact5" role="tab"
+                                        aria-controls="contact5" aria-selected="false">
+                                        <img src="img/productimages/sweatshirts-1000x1000 (1) 1.jpg" class="img-fluid" alt=""style="width: 110px; height: 110px;">
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 order-3 order-lg-2">
+                        <div class="pro-content">
+                            <span>Sweatshirt</span>
+                            <h5 class="title">Cotton Plain Sweatshirts</h5>
+                            <div class="pro-rating pb-40">
+                                <a href="#" class="active"><i class="fas fa-star"></i></a>
+                                <a href="#" class="active"><i class="fas fa-star"></i></a>
+                                <a href="#" class="active"><i class="fas fa-star"></i></a>
+                                <a href="#" class="active"><i class="fas fa-star"></i></a>
+                                <a href="#" class="active"><i class="fas fa-star"></i></a>
+                                <a href="#" class="review">(19 customer reviews)</a>
+                            </div>
+                            <div class="pro-social mb-45">
+                                <a href="#"><img src="img/payment/pro-details-social.jpg" class="img-fluid" alt=""></a>
+                            </div>
+                            <div class="about-pro">
+                                <ul class="mb-40">
+                                    <li>280 GSM Men’s Sweatshirts</li>
+  <li>Heavyweight Fabric – Ideal for Winter</li>
+  <li>Premium Brand Finish</li>
+  <li>Unisex Fit – Suitable for Both Men & Women</li>
+  <li>Full Sleeve Sweatshirts for Everyday Comfort</li>
+                                </ul>
+                                <p>Manufactured with care by Heritage Appreals — specialists in fleece sweatshirts from the heart of Ludhiana.</p>
+                            </div>
+                            <div class="pro-code pt-25">
+                                <ul>
+                                    <li>SKU: <span>FW507589488068</span></li>
+                                    <li>Tag: <span>Sweatshirt</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 order-2 order-lg-3">
+                        <div class="cart-wrapper">
+                            <div class="cart-title">
+                                <h6>Availability: <span>In Stock</span></h6>
+                            </div>
+                            <div class="price mt-15 mb-20">
+                                <h4>Connect For Pricing</h4>
+                            </div>
+                            <form action="#">
+                                <div class="field">
+                                    <label>Quantity:</label>
+                                    <input type="number">
+                                </div>
+                                <div class="field">
+                                    <label>Color:</label>
+                                    <select name="select">
+                                        <option value="1">Grey</option>
+                                        <option value="2">Blue</option>
+                                        <option value="3">Black</option>
+                                        <option value="4">White</option>
+                                        <option value="5">Brown</option>
+                                    </select>
+                                </div>
+                            </form>
+                            <a href="#" class="cart-button">Call Us Today</a>
+                            <a href="#" class="buy-button">Buy Now</a>
+                            <div class="last pt-15">
+                                <a href="#">Whatsapp</a>
+                                <a href="#">We-Chat</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Shop-details end -->
+
+        <!-- Shop-details tab start -->
+        <section class="shop-details-desc">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="desc-wrapper">
+                            <ul class="nav custom-tabs" id="myTab" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link" id="home-tab11" data-toggle="tab" href="#home11" role="tab"
+                                        aria-controls="home11" aria-selected="true">Specification</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="profile-tab11" data-toggle="tab" href="#profile11"
+                                        role="tab" aria-controls="profile11" aria-selected="false">Description </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="contact-tab11" data-toggle="tab" href="#contact11"
+                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(19)</a>
+                                </li>
+                            </ul>
+                            <div class="tab-content" id="myTabContent1">
+                                <div class="tab-pane fade" id="home11" role="tabpanel" aria-labelledby="home-tab11">
+                                    <div class="desc-content mt-60">
+                                        <div class="row">
+                                            <div class="col-md-12 mb-30">
+                                                <div class="spe-wrapper">
+                                                    <ul>
+                                                        <li class="title">Additional information</li>
+
+                                                        <li>Pattern</li>
+                                                        <li>Plain</li>
+
+                                                        <li>Fabric
+                                                        </li>
+                                                        <li>Fleece
+                                                        </li>
+
+                                                        <li>Style
+                                                        </li>
+                                                        <li>Pullover
+                                                        </li>
+
+                                                        <li>Size</li>
+                                                        <li>XL, XXL, LG, SM, MD</li>
+
+                                                        <li>Sleeve Length</li>
+                                                        <li>Full Sleeves</li>
+
+                                                        <li>GSM</li>
+                                                        <li>280</li>
+
+                                                        <li>Neck Type</li>
+                                                        <li>Round Neck</li>
+
+                                                        <li>Gender</li>
+                                                        <li>Men</li>
+
+                                                        <li>Wash Care
+                                                        </li>
+                                                        <li>Hand Wash
+                                                        </li>
+
+                                                        <li>Color
+                                                        </li>
+                                                        <li>Multicolor options
+                                                        </li>
+
+                                                        <li>Occasion
+                                                        </li>
+                                                        <li>Daily Wear
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade show active" id="profile11" role="tabpanel"
+                                    aria-labelledby="profile-tab11">
+                                    <div class="desc-content mt-60">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="single-content mb-40">
+                                                    <!-- <h5 class="title">Perfactly Done</h5> -->
+                                                    <p>Meet the perfect blend of simplicity, comfort, and versatility with our Men’s Cotton Plain Sweatshirts, proudly manufactured by Heritage Appreals, a trusted Ludhiana-based industry known for producing top-quality sweatshirts for bulk buyers, private labels, retailers, and corporate clients across India and beyond.
+
+Crafted from premium-grade cotton, this sweatshirt offers a soft hand-feel, excellent breathability, and lasting durability. The natural cotton fibers help regulate body temperature, making it suitable for multi-season wear—comfortable during chilly mornings and light enough for layering when needed.
+
+Designed with a plain pattern and full sleeves, the sweatshirt features a minimalist look that never goes out of style. This simplicity also provides a versatile base for custom branding, whether it’s screen printing, embroidery, heat transfer, or patchwork—making it ideal for corporate uniforms, college merchandise, promotional giveaways, or fashion-forward retail collections.
+
+This men’s sweatshirt is tailored in a standard fit, ensuring ease of movement without compromising structure. It’s available in multiple sizes to suit a wide demographic, with color customization options available for bulk orders.
+
+At Heritage Appreals, we provide complete OEM/ODM sweatshirt manufacturing solutions, including fabric GSM customization, logo printing, labeling, sizing adjustments, and personalized packaging. Whether you're launching a new collection or sourcing in volume for institutions or events, we support end-to-end product development with quick lead times and strict quality control.</div>
+                                            </div>
+                                            <!-- <div class="col-md-6">
+                                                <div class="single-content mb-40">
+                                                    <h5 class="title">Freshly Design</h5>
+                                                    <p>Praesent ornare, ex a interdum consectetur, lectus diam sodales
+                                                        elit, vitae egestas massa nisi. Suspendisse potenti. Quisque
+                                                        suscipit vulputate dui quis volutpat.Ut id cursus tellus, non
+                                                        tempor quam. Morbi.</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="single-content mb-40">
+                                                    <h5 class="title">Fabolous Sound</h5>
+                                                    <p>Praesent ornare, ex a interdum consectetur, lectus diam sodales
+                                                        elit, vitae egestas massa nisi. Suspendisse potenti. Quisque
+                                                        suscipit vulputate dui quis volutpat.Ut id cursus tellus, non
+                                                        tempor quam. Morbi.</p>
+                                                </div>
+                                            </div> -->
+                                            <div class="col-md-12">
+                                                <div class="single-content mb-40">
+                                                  
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="contact11" role="tabpanel"
+                                    aria-labelledby="contact-tab11">
+                                    <div class="desc-content mt-60">
+                                        <div class="row">
+                                            <div class="col-md-12">                                               
+    <div class="single-content mb-40">
+    <h5 class="title">Samar Kapoor</h5>
+    <p>These sweatshirts are comfortable, affordable, and easy to customize. Exactly what our store needed this season.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Mira Bhargava</h5>
+    <p>The fabric feels soft on skin, and the inside fleece is cozy without overheating. A great balance.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Aryan Joshi</h5>
+    <p>Fast turnaround time and top quality. We’ve added these sweatshirts to our permanent product line.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Sia Arvind</h5>
+    <p>We use these in employee welcome kits, and the feedback is always positive. Looks professional and feels great.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Dhruv Mishra</h5>
+    <p>It’s rare to find sweatshirts that are this well-stitched and colorfast at this price point. Highly recommended.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Tanya Rathi</h5>
+    <p>The quality is consistent across multiple size ranges, which helps us manage inventory more efficiently.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Aditya Nair</h5>
+    <p>The plain design works really well for our branding projects. Customers appreciate the comfort too.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Inaaya Jain</h5>
+    <p>The response from our online buyers has been overwhelming. Easy to shoot, market, and deliver.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Kunal Batra</h5>
+    <p>Fits true to size and retains shape after washing. That’s exactly what our repeat buyers look for.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Ziva Mehra</h5>
+    <p>Our entire team wears these sweatshirts in-store. They’re professional, neat, and super comfortable.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Kabir Desai</h5>
+    <p>Bulk orders were neatly packed and delivered on time. Heritage Appreals has never disappointed.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Niyati Shah</h5>
+    <p>These sweatshirts are a best-seller every fall. We just restocked for the third time this season.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Reyansh Oberoi</h5>
+    <p>The fabric is thick enough to give warmth but doesn’t feel stiff. Perfect for transitional weather.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Aarohi Vyas</h5>
+    <p>These plain sweatshirts are ideal for students and casual wearers. The simplicity is their strength.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Veer Ahuja</h5>
+    <p>It’s easy to style them up or down. Our customers love pairing these with joggers or denim.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Sanya Menon</h5>
+    <p>We ordered a mix of colors and every batch came out vibrant and accurate to product photos.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Hriday Chhabra</h5>
+    <p>We sell these offline and online, and they perform well on both platforms. Very dependable product.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Lavanya Nair</h5>
+    <p>The feedback from our influencers has been fantastic. They love the texture and clean finish.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Parth Taneja</h5>
+    <p>For anyone in the apparel business, this sweatshirt is a must-have. Reliable in every aspect.</p>
+</div>
+
+
+
+
+
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Shop-details tab end --><br><br>
+<!-- Product  -->
+
+        <?php include '../../assets/newarrivel.php';?>
+        <!-- Product end -->
+        <!-- Product  -->
+        <!-- Product end -->
+        <!-- Product  -->
+        <?php include '../../assets/brands.php';?>
+        <!-- Product end -->
+
+        <!-- Subscribe -->
+        <?php include '../../assets/colournewsletter.php';?>
+
+        <!-- Subscribe End -->
+
+    </main>
+    <!-- Main End -->
+
+    <!-- Footer -->
+    <?php include '../../assets/footer.php';?>
+    <!-- Footer End -->
+
+
+
+
+
+    <!-- JS here -->
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/one-page-nav-min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/ajax-form.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.countdown.min.js"></script>
+    <script src="js/jquery-ui-slider-range.js"></script>
+    <script src="js/meanmenu.min.js"></script>
+    <script src="js/Elemental.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Sweatshirts – Bulk Winter Wear Supply for Men & Women | Heritage Appreals</title>
-    <meta name="description" content="Wholesale supplier of premium sweatshirts from Heritage Appreals. Comfortable, durable, and customizable options for corporate, retail, and export needs.">
+    <title>Sweatshirts – Wholesale Winterwear Manufacturer & Exporter | Heritage Appreals</title>
+    <meta name="description" content="High-quality sweatshirts in bulk supply for retailers, custom printing, and export orders.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
@@ -55,15 +55,15 @@
                                     aria-labelledby="home-tab5">
                                     
                                     
-                                    <img src="img/productimages/sweatshirt-1000x1000.webp"
+                                    <img src="img/productimages/sweatshirt-1000x1000 (2).webp"
                                         class="img-fluid" alt=""></div>
 
                                 <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile-tab5">
-                                    <img src="img/productimages/sweatshirt-1000x1000 (1).webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/sweatshirt-1000x1000 (3).webp" class="img-fluid" alt="">
                                 </div>
 
                                 <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact-tab5">
-                                    <img src="img/productimages/sweatshirt-1000x1000 (2).webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/sweatshirt-1000x1000 (1).webp" class="img-fluid" alt="">
                                 </div>
                             </div>
 
@@ -75,19 +75,19 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/productimages/sweatshirt-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/sweatshirt-1000x1000 (2).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="profile-tab5" data-toggle="tab" href="#profile5" role="tab"
                                         aria-controls="profile5" aria-selected="false">
-                                        <img src="img/productimages/sweatshirt-1000x1000 (1).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/sweatshirt-1000x1000 (3).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact5" role="tab"
                                         aria-controls="contact5" aria-selected="false">
-                                        <img src="img/productimages/sweatshirt-1000x1000 (2).webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/sweatshirt-1000x1000 (1).webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                             </ul>
@@ -103,7 +103,7 @@
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
-                                <a href="#" class="review">(12 customer reviews)</a>
+                                <a href="#" class="review">(22 customer reviews)</a>
                             </div>
                             <div class="pro-social mb-45">
                                 <a href="#"><img src="img/payment/pro-details-social.jpg" class="img-fluid" alt=""></a>
@@ -120,7 +120,7 @@
                             </div>
                             <div class="pro-code pt-25">
                                 <ul>
-                                    <li>SKU: <span>FW50758948805816</span></li>
+                                    <li>SKU: <span>FW507589488058</span></li>
                                     <li>Tag: <span>Sweatshirt</span></li>
                                 </ul>
                             </div>
@@ -142,14 +142,19 @@
                                 <div class="field">
                                     <label>Color:</label>
                                     <select name="select">
-                                        <option value="1">Purple</option>
+                                        <option value="1">Grey</option>
                                         <option value="2">Blue</option>
                                         <option value="3">Black</option>
                                         <option value="4">White</option>
                                         <option value="5">Brown</option>
                                     </select>
                                 </div>
-                            </form> <?php include 'assets/whatsapp.php';?>
+                            </form>
+                            <a href="#" class="cart-button">Call Us Today</a>
+                            <a href="#" class="buy-button">Buy Now</a>
+                            <div class="last pt-15">
+                                <a href="#">Whatsapp</a>
+                                <a href="#">We-Chat</a>
                             </div>
                         </div>
                     </div>
@@ -175,7 +180,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab11" data-toggle="tab" href="#contact11"
-                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(12)</a>
+                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(22)</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent1">
@@ -284,65 +289,114 @@ At Heritage Appreals, we support complete OEM/ODM sweatshirt manufacturing, offe
                                         <div class="row">
                                             <div class="col-md-12">                                               
     <div class="single-content mb-40">
-    <h5 class="title">Reyansh Saluja</h5>
-    <p>Every time a customer tries it on, they instantly say yes. It’s that comfortable and well-fitted.</p>
+    <h5 class="title">Anvika Kapoor</h5>
+    <p>These sweatshirts are top-notch. We've had amazing feedback from our retail customers and online buyers alike.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Avni Sran</h5>
-    <p>The material doesn’t lose shape or color. We’ve tested it in-store and at home—impressive durability.</p>
+    <h5 class="title">Ishaan Thakur</h5>
+    <p>Perfect for branding. We’ve used these in three different promotional campaigns and the results were great.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Shaurya Manchanda</h5>
-    <p>Soft fleece lining, sharp silhouette, easy-care fabric — a complete win for winter wear.</p>
+    <h5 class="title">Kiara Bhandari</h5>
+    <p>The colors are rich, consistent, and don’t bleed. One of the best we’ve sourced for winter apparel.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Tia Anand</h5>
-    <p>Works perfectly with custom branding and logos. We used them for a college fest and got great feedback.</p>
+    <h5 class="title">Aarav Verma</h5>
+    <p>Very well stitched and true to size. The fit and feel make these sweatshirts an easy sell.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Kabir Aulakh</h5>
-    <p>The sleeves taper well at the wrists, giving a clean look even after a full day of wear.</p>
+    <h5 class="title">Ridhi Arora</h5>
+    <p>Soft fleece, no shrinkage, no pilling—exactly what we were looking for in a winter sweatshirt.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Meher Sahota</h5>
-    <p>No shrinkage issues at all — a big relief for people buying without trial.</p>
+    <h5 class="title">Yuvraj Sethi</h5>
+    <p>The plain design works great with custom logos. We've used them in our bulk corporate orders.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Yug Lamba</h5>
-    <p>We added it as a gift-with-purchase option — ended up becoming one of our most requested items.</p>
+    <h5 class="title">Tisha Malhotra</h5>
+    <p>Stylish and simple. These sweatshirts work across casual and semi-casual looks with ease.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Saanvi Johar</h5>
-    <p>It’s cozy but still lightweight enough to wear indoors. Truly versatile for changing weather.</p>
+    <h5 class="title">Rayan Dubey</h5>
+    <p>Every batch has arrived on time and in perfect shape. Great coordination from Heritage Appreals.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Dev Bajwa</h5>
-    <p>The flat collar design is modern and functional. It doesn’t fold weirdly after washes.</p>
+    <h5 class="title">Saanvi Khanna</h5>
+    <p>The fabric breathes well even though it's thick. Keeps you warm without feeling heavy.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Inaaya Suri</h5>
-    <p>Even our fashion-conscious clients loved the minimal design. Stylish yet understated.</p>
+    <h5 class="title">Shaurya Lamba</h5>
+    <p>Customers are loving the neutral shades. These sweatshirts are a hit in our minimalist collection.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Aarav Rathi</h5>
-    <p>Color consistency is perfect across all pieces. No shade mismatch between batches.</p>
+    <h5 class="title">Anvi Joshi</h5>
+    <p>The packaging was neat and ready for shelf display. Very professional handling and delivery.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Meher Uppal</h5>
-    <p>Our team wears them daily during winter pop-ups. Easy to move in, keeps us warm, and looks great!</p>
+    <h5 class="title">Neil Sharma</h5>
+    <p>From ordering to stocking, everything has been smooth. We’ll continue ordering these season after season.</p>
 </div>
 
+<div class="single-content mb-40">
+    <h5 class="title">Rudra Shah</h5>
+    <p>The sweatshirts have a clean, modern fit. Customers love how easy they are to wear and style.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Meher Kaur</h5>
+    <p>Our design team was impressed with how well these hold up after multiple washes. Quality is consistent.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Devika Bedi</h5>
+    <p>Even our choosiest customers gave positive feedback. These are now a regular in our seasonal catalog.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Zoravar Yadav</h5>
+    <p>The fleece interior is warm and doesn’t get rough over time. Our best pick for premium winterwear basics.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Ira Deshmukh</h5>
+    <p>Highly recommended for anyone looking for simple, high-quality sweatshirts. These check all the boxes.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Atharv Khanna</h5>
+    <p>We’ve used these for internal staff uniforms as well. They look polished and feel comfortable for all-day wear.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Lavanya Rana</h5>
+    <p>Best-selling sweatshirt two years in a row! We now stock every color they offer.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Nakul Mehra</h5>
+    <p>The material is thick enough for warmth but light enough for flexibility. Our customers wear them daily.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Jiya Kohli</h5>
+    <p>True to description and photos. We’ve had zero complaints from buyers so far—huge plus in this business.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Ayan Gaur</h5>
+    <p>These sweatshirts work for casual, college, or travel looks. Very flexible and practical product.</p>
+</div>
 
 
 

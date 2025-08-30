@@ -4,24 +4,23 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Bulk Cotton Blend Mens Hoodies – Stylish Comfort – Heritage Appreals Ludhiana</title>
-    <meta name="description" content="Get Cotton Blend Mens Hoodies in bulk from Heritage Appreals, Ludhiana. Perfect for B2B clients, retailers, and exporters looking for high-quality, stylish, and comfortable hoodies.">
+    <titleCotton Blend Men’s Hoodies – Bulk Winterwear Supply | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Stylish cotton blend hoodies for men, available in bulk. Trusted quality for wholesalers, exporters, and custom branding.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
     <link rel="stylesheet" href="css/meanmenu.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-       <?php include '../../assets/head.php';?>
+        <?php include '../../assets/head.php';?>
 </head>
 
 <body>
-       <?php include '../../assets/body.php';?>
-
+<?php include '../../assets/body.php';?>
     <!-- Header -->
     <?php include '../../assets/header.php';?>
     <!-- Header end /-->
@@ -41,7 +40,7 @@
                                     <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
                                     <li class="breadcrumb-item"><a href="index-2.html">Winter Collection</a></li>
                                     <li class="breadcrumb-item"><a href="index-2.html">Hoodies</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Cotton Blend Mens Hoodie
+                                    <li class="breadcrumb-item active" aria-current="page"> Cotton Blend Mens Hoodies
                                     </li>
                                 </ol>
                             </nav>
@@ -56,15 +55,15 @@
                                     aria-labelledby="home-tab5">
                                     
                                     
-                                    <img src="img/productimages/untitled-design-2024-10-19t171747-659-1000x1000.webp"
+                                    <img src="img/productimages/mens-hoodies-1000x1000.webp"
                                         class="img-fluid" alt=""></div>
 
                                 <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile-tab5">
-                                    <img src="img/productimages/untitled-design-2024-10-19t171737-312-1000x1000.webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/mens-hoodies-1000x1000 (2).webp" class="img-fluid" alt="">
                                 </div>
 
                                 <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact-tab5">
-                                    <img src="img/productimages/untitled-design-2024-10-19t171709-957-1000x1000.webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/mens-hoodies-1000x1000 (1).webp" class="img-fluid" alt="">
                                 </div>
                             </div>
 
@@ -76,19 +75,19 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/productimages/untitled-design-2024-10-19t171747-659-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/mens-hoodies-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="profile-tab5" data-toggle="tab" href="#profile5" role="tab"
                                         aria-controls="profile5" aria-selected="false">
-                                        <img src="img/productimages/untitled-design-2024-10-19t171737-312-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/mens-hoodies-1000x1000 (2).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact5" role="tab"
                                         aria-controls="contact5" aria-selected="false">
-                                        <img src="img/productimages/untitled-design-2024-10-19t171709-957-1000x1000.webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/mens-hoodies-1000x1000 (1).webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                             </ul>
@@ -97,31 +96,31 @@
                     <div class="col-lg-4 col-md-12 order-3 order-lg-2">
                         <div class="pro-content">
                             <span>Hoodies</span>
-                            <h5 class="title">Cotton Blend Mens Hoodie</h5>
+                            <h5 class="title">Cotton Blend Mens Hoodies</h5>
                             <div class="pro-rating pb-40">
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
-                                <a href="#" class="review">(10 customer reviews)</a>
+                                <a href="#" class="review">(17 customer reviews)</a>
                             </div>
                             <div class="pro-social mb-45">
                                 <a href="#"><img src="img/payment/pro-details-social.jpg" class="img-fluid" alt=""></a>
                             </div>
                             <div class="about-pro">
                                 <ul class="mb-40">
-                                    <li>Premium Cotton Blend – Soft, breathable & winter-ready</li>
-                                    <li>Regular Fit – Comfortable for everyday wear</li>
-                                    <li>Full Sleeves with Bracelet Cuffs</li>
-                                    <li>Classic Pullover Style for Men</li>
-                                    <li>Durable stitching with long-lasting fabric</li>
+                                    <li>Premium 280 GSM Cotton Fleece for Warmth & Comfort</li>
+                                    <li>Ideal for Winter – Breathable and Insulated</li>
+                                    <li>Precision Stitching with Brand-Grade Finish</li>
+                                    <li>Unisex Regular Fit – Perfect for Men & Women</li>
+                                    <li>Full sleeve Hoodies</li>
                                 </ul>
-                                <p>Expertly crafted by Heritage Appreals – Trusted Menswear Manufacturer in Ludhiana</p>
+                                <p>Trusted by retailers across India, Heritage Appreals is your go-to source for premium Hoodies from Ludhiana.</p>
                             </div>
                             <div class="pro-code pt-25">
                                 <ul>
-                                    <li>SKU: <span>FW514948818</span></li>
+                                    <li>SKU: <span>FW10518948818</span></li>
                                     <li>Tag: <span>Hoodie</span></li>
                                 </ul>
                             </div>
@@ -143,20 +142,20 @@
                                 <div class="field">
                                     <label>Color:</label>
                                     <select name="select">
-                                        <option value="1">Gray</option>
-                                        <option value="2">Charcoal Grey</option>
-                                        <option value="3">Olive Green </option>
-                                        <option value="4">Maroon </option>
+                                        <option value="1">Navy Blue</option>
+                                        <option value="2">Maroon</option>
+                                        <option value="3">White</option>
                                         <option value="4">Black</option>
+                                        <option value="4">Grey</option>
 
                                     </select>
                                 </div>
                             </form>
-                            <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0" class="cart-button">Call Us Today</a>
-                            <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0" class="buy-button">Buy Now</a>
+                            <a href="#" class="cart-button">Call Us Today</a>
+                            <a href="#" class="buy-button">Buy Now</a>
                             <div class="last pt-15">
-                                <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Whatsapp</a>
-                                <a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">We-Chat</a>
+                                <a href="#">Whatsapp</a>
+                                <a href="#">We-Chat</a>
                             </div>
                         </div>
                     </div>
@@ -182,7 +181,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab11" data-toggle="tab" href="#contact11"
-                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(10)</a>
+                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(17)</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent1">
@@ -208,11 +207,11 @@
                                                         <li>Sleeve Length</li>
                                                         <li>Full Sleeves</li>
 
-                                                        <li>Sleeve style</li>
-                                                        <li>Bracelet Sleeves</li>
-
                                                         <li>GSM</li>
                                                         <li>280</li>
+
+                                                        <li>No. of Pockets</li>
+                                                        <li>2</li>
 
                                                         <li>Gender</li>
                                                         <li>Men</li>
@@ -222,9 +221,10 @@
                                                         <li>Hand Wash
                                                         </li>
 
-                                                        <li>Country of Origin</li>
-                                                        <li>Made in India</li>
-
+                                                        <li>Color
+                                                        </li>
+                                                        <li>Multicolor options
+                                                        </li>
 
                                                         <li>Occasion
                                                         </li>
@@ -243,16 +243,15 @@
                                             <div class="col-md-12">
                                                 <div class="single-content mb-40">
                                                     <!-- <h5 class="title">Perfactly Done</h5> -->
-                                                    <p>Upgrade your winterwear collection with our Cotton Blend Men’s Hoodies, proudly manufactured by Heritage Appreals, a leading apparel manufacturer based in Ludhiana, Punjab. Designed for style-conscious men who prioritize both comfort and durability, this hoodie delivers a clean, modern look ideal for everyday wear.
+                                                    <p>Discover the perfect blend of comfort and functionality with Cotton Blend Men’s Hoodies, proudly manufactured by Heritage Appreals, a trusted Ludhiana-based industry known for producing high-quality winter and casual wear for bulk buyers, private label brands, retailers, and promotional garment suppliers.
 
-Crafted using a premium cotton blend, the fabric offers a soft, breathable feel while maintaining warmth during cold weather. The plain pullover design adds a classic touch, making it suitable for a wide range of uses—from casual outings to promotional apparel or private-label collections.
+These hoodies are crafted from a durable and soft cotton blend fabric, ensuring excellent breathability, all-day comfort, and long-lasting wear. Designed for year-round use, they provide the right amount of warmth during cooler months while remaining lightweight enough for layering during transitional weather.
 
-Tailored in a regular fit with full sleeves and bracelet-style cuffs, this hoodie ensures flexibility, ease of movement, and a flattering silhouette. The minimalistic finish gives it a universal appeal that caters to men of all age groups and fashion preferences. Whether you are stocking up for a retail outlet, launching a new fashion label, or looking to add value to your existing brand, this hoodie checks all the boxes.
+Featuring a classic hoodie construction, this garment includes a pullover design, full sleeves, and a hood with drawstrings, providing both style and functionality. Its clean, plain finish makes it an ideal base for custom printing, logo embroidery, or promotional branding, making it the go-to option for fashion startups, corporate giveaways, college merchandise, or uniform collections.
 
-As a trusted name in B2B manufacturing, Heritage Appreals focuses on delivering quality stitching, long-lasting fabric, and prompt bulk order fulfillment. Our hoodies are designed to withstand multiple washes while retaining their shape and color, offering your customers long-term satisfaction.
-This men’s hoodie is in stock and ready for bulk dispatch across India or for export. It’s an excellent choice for wholesalers, online retailers, and private label brands looking for reliable winterwear essentials. With a focus on fit, fabric, and function, Heritage Appreals continues to lead in the production of stylish and durable cotton blend garments.
+The relaxed yet modern fit suits a wide range of customer profiles, from teens and young adults to professionals seeking casual comfort. Available in multiple sizes and customizable color options, this hoodie is a highly versatile and scalable product for wholesale markets.
 
-</div>
+At Heritage Appreals, we offer complete OEM/ODM hoodie manufacturing services, supporting full customization including fabric GSM, sizing, color matching, labeling, packaging, and private branding. Our state-of-the-art production facility ensures fast turnaround, consistent quality, and timely delivery for both national and international B2B clients.</div>
                                             </div>
                                             <!-- <div class="col-md-6">
                                                 <div class="single-content mb-40">
@@ -285,46 +284,95 @@ This men’s hoodie is in stock and ready for bulk dispatch across India or for 
                                     <div class="desc-content mt-60">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Mr. Karan Malhotra </h5>
-                                                    <p>The hoodie quality is fantastic! My customers loved the warmth and the neat stitching. Already placed my second bulk order with Heritage Appreals. </p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Ritika Sharma </h5>
-                                                    <p>As a startup, I was worried about quality and pricing. But Heritage Appreals delivered more than expected – soft fleece, timely delivery, and professional service. </p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Sahil Wadhwa </h5>
-                                                    <p>Reliable manufacturer with premium fleece fabric. Our store saw great traction this winter thanks to their fast-moving hoodies. </p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Manmeet Grewal  </h5>
-                                                    <p>We’ve been sourcing winterwear for years, and these hoodies are among the best in terms of finish and durability. Very satisfied with Heritage Appreals. </p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Ishita Verma  </h5>
-                                                    <p>"My retail clients appreciate the regular fit and breathable fleece. The unisex design works great for both men and women </p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Deepanshu Raj </h5>
-                                                    <p>The brand-level finishing on each piece is impressive. Minimal shrinkage and retains its color – exactly what a retailer wants! </p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Preeti Bansal </h5>
-                                                    <p>Their packaging and support are equally good. Heritage Appreals helped us customize tags as well, making the products store-ready.</p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Raghav Batra </h5>
-                                                    <p>The hoodie sizing is consistent and fits perfectly for the Indian market. Delivery was quick even during the festive rush.</p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Mitali Desai </h5>
-                                                    <p>Being new in the apparel business, I found Heritage Appreals extremely cooperative. Their quality gave my brand a strong start.</p>
-                                                </div>
-                                                <div class="single-content mb-40">
-                                                     <h5 class="title">Ankur Sethi </h5>
-                                                    <p>Local manufacturer with global standards. I’ve been dealing with them for over 6 months and never had a single complaint from customers.</p>
-                                                </div>
+<div class="single-content mb-40">
+    <h5 class="title">Anaya Khanna</h5>
+    <p>Our store displays these hoodies front and center every winter. They draw customers in with their rich fabric and clean design.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Reyansh Pathak</h5>
+    <p>The hoodies have a universal appeal. They're minimal yet fashionable, and easy to pair with anything.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Sanya Choudhary</h5>
+    <p>We’ve used them for event merchandise and giveaways. Clients love the softness and quality look.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Dev Arora</h5>
+    <p>The branding flexibility is unmatched. Great results with screen printing, embroidery, and DTG.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Tanya Kapoor</h5>
+    <p>We appreciate the professional packaging. Every hoodie came labeled, folded, and size-separated.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Aarav Sachdeva</h5>
+    <p>The material is thick but breathable—ideal for the Canadian winter and transitional seasons.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Jasleen Verma</h5>
+    <p>Our boutique specializes in premium basics, and these hoodies fit perfectly into our aesthetic.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Rudra Saxena</h5>
+    <p>We offered these hoodies during a flash sale, and they sold out within 48 hours. Great product!</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Simran Nair</h5>
+    <p>The interior fleece holds up over time. Even after months of wear, the softness remains intact.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Vihaan Kohli</h5>
+    <p>Customer satisfaction has been excellent. We rarely get returns or complaints for this hoodie line.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Rhea Tiwari</h5>
+    <p>Simple, warm, and stylish—our customers love them. We’ve reordered twice this season already.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Ayaan Gill</h5>
+    <p>These hoodies are great for all-day wear. No itchiness or discomfort. Super soft on the skin.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Ira Walia</h5>
+    <p>The hoodie retains shape and color even after repeated washing. We’re very satisfied with the quality.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Neil Anand</h5>
+    <p>We paired these hoodies with joggers for a combo set. It was our fastest-selling bundle of the month.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Zoya Mahajan</h5>
+    <p>Highly recommended for B2B clients. Heritage Appreals always delivers top-notch quality and service.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Shaurya Iyer</h5>
+    <p>Excellent reviews from influencers and stylists we’ve worked with. Everyone loves the feel and finish.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Anvi Yadav</h5>
+    <p>These hoodies check all boxes—comfort, durability, and visual appeal. A staple for every winter rack.</p>
+</div>
+
+
+
+
+
 
                                             </div>
                                         </div>
@@ -335,13 +383,17 @@ This men’s hoodie is in stock and ready for bulk dispatch across India or for 
                     </div>
                 </div>
             </div>
-        </section><br>
-        <!-- Shop-details tab end -->
+        </section>
+        <!-- Shop-details tab end --><br><br>
+<!-- Product  -->
 
-        <!-- Product  -->
         <?php include '../../assets/newarrivel.php';?>
         <!-- Product end -->
+        <!-- Product  -->
+        <!-- Product end -->
+        <!-- Product  -->
         <?php include '../../assets/brands.php';?>
+        <!-- Product end -->
 
         <!-- Subscribe -->
         <?php include '../../assets/colournewsletter.php';?>
@@ -354,6 +406,7 @@ This men’s hoodie is in stock and ready for bulk dispatch across India or for 
     <!-- Footer -->
     <?php include '../../assets/footer.php';?>
     <!-- Footer End -->
+
 
 
 
