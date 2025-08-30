@@ -206,8 +206,7 @@
                                         <span class="notification__title--heading f-800 cod__black-color">Subscribe for Join Us!</span>
                                     </div>
                                     <div class="newsletter--message d-none d-xl-block">
-                                        <p class="newsletter__message__title mb-0">.... & receive $20 coupne for first Shopping &
-                                            free delivery.</p>
+                                        <p class="newsletter__message__title mb-0">.... Stay updated with the latest pipeline products!! </p>
                                     </div>
                                 </div>
                                 <form class="right newsletter--form pos-rel">

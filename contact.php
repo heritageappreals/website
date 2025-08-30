@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Shupmax - Multipurpose eCommerce HTML Template</title>
+    <title>Heritage Appreals: Connect with our experts to fullfill your apperal needs</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -61,7 +61,7 @@
                                 <p>Need assistance? Our customer service is here to
                                     assist you Monday through Friday from
                                     9 am EST to 10 pm EST.</p>
-                                    <h5>+4.509.120.6705</h5>
+                                    <h5>+91 90410 54080</h5>
                             </div>
                             <div class="single-text">
                                 <i class="icofont-bug"></i>
