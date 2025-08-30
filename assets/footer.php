@@ -17,7 +17,7 @@
                                     </div>
                                 </div>
                                 <div class="contacts-address--footer">
-                                    <p>first Floor, Birla Quatar, Shivpuri, Ludhiana <a href="mailto:contact@martfury.co">info@heritageappreals.com</a></p>
+                                    <p>first Floor, Birla Quatar, Shivpuri, Ludhiana <a href="mailto:info@heritageappreals.com">info@heritageappreals.com</a></p>
                                 </div>
                             </div>
                         </div>

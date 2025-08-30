@@ -13,44 +13,44 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="blog-single mb-30">
                                 <div class="image">
-                                    <a href="#"><img src="img/offer/offer__thumb__9.jpg" class="img-fluid" alt=""></a>
+                                    <a href="#"><img src="img/blogimg/1.png" class="img-fluid" alt=""></a>
                                 </div>
                                 <div class="content">
-                                    <span class="dusty__gray-color f-400 pt-15">22 May 2020</span>
-                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">Contrary to Popular Belief Ipsum</a></span>
+                                    <span class="dusty__gray-color f-400 pt-15">12 August 2025</span>
+                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">We are the Best Clothing Menufecturer in Ludhiana</a></span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="blog-single mb-30">
                                 <div class="image">
-                                    <a href="#"><img src="img/offer/offer__thumb__10.jpg" class="img-fluid" alt=""></a>
+                                    <a href="#"><img src="img/blogimg/2.png" class="img-fluid" alt=""></a>
                                 </div>
                                 <div class="content">
-                                    <span class="dusty__gray-color f-400 pt-15">22 May 2020</span>
-                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">There are many variations of passages</a></span>
+                                    <span class="dusty__gray-color f-400 pt-15">17 August 2025</span>
+                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">Crafted in Ludhiana: Your Style, Our Expertise</a></span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="blog-single mb-30">
                                 <div class="image">
-                                    <a href="#"><img src="img/offer/offer__thumb__11.jpg" class="img-fluid" alt=""></a>
+                                    <a href="#"><img src="img/blogimg/3.png" class="img-fluid" alt=""></a>
                                 </div>
                                 <div class="content">
-                                    <span class="dusty__gray-color f-400 pt-15">22 May 2020</span>
-                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">There are many variations of passages</a></span>
+                                    <span class="dusty__gray-color f-400 pt-15">22 August 2025</span>
+                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">Ludhian's Premier Clothing Manufacturer</a></span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="blog-single mb-30">
                                 <div class="image">
-                                    <a href="#"><img src="img/offer/offer__thumb__12.jpg" class="img-fluid" alt=""></a>
+                                    <a href="#"><img src="img/blogimg/4.png" class="img-fluid" alt=""></a>
                                 </div>
                                 <div class="content">
-                                    <span class="dusty__gray-color f-400 pt-15">22 May 2020</span>
-                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">Contrary to Popular Belief Ipsum</a></span>
+                                    <span class="dusty__gray-color f-400 pt-15">30 August 2025</span>
+                                    <span class="blog-title"><a href="#" class="cod__black-color f-700">We are the Best Clothing Manufacturer in Ludhiana</a></span>
                                 </div>
                             </div>
                         </div>

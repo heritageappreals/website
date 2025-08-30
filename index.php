@@ -139,9 +139,10 @@
             </section>
             <!-- what shop-max offer end -->
 
-            <!-- Discover All Product  -->
-             <?php include 'assets/discover.php';?>
-            <!-- Discover All Product end -->
+            <!-- New Arrivel All Product  -->
+            <?php include 'assets/newarrivel.php';?>
+            <!-- New Arrivel All Product end -->
+
 
 
 
@@ -183,10 +184,11 @@
             <!-- Brand End -->
 
 
-            <!-- New Arrivel All Product  -->
-            <?php include 'assets/newarrivel.php';?>
-            <!-- New Arrivel All Product end -->
+            <!-- Discover All Product  -->
+             <?php include 'assets/discover.php';?>
+            <!-- Discover All Product end -->
 
+            
 
             <!-- blog area start -->
            <?php include 'assets/latestblog.php';?>
