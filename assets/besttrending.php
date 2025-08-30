@@ -16,11 +16,11 @@
                                     </div>
                                     <div class="product--flex__right">
                                         <div class="product__content--top">
-                                            <span class="cate-name f-800 cod__black-color">Leather Shoe</span>
+                                            <span class="cate-name f-800 cod__black-color">Track Suits</span>
                                             <ul>
-                                                <li><a href="#" class="f-300 cod__black-color">About Us</a></li>
-                                                <li><a href="#" class="f-300 cod__black-color">Careers</a></li>
-                                                <li><a href="#" class="f-300 cod__black-color">Press Releases</a></li>
+                                                <li><a href="#" class="f-300 cod__black-color">Cotton Fleece</a></li>
+                                                <li><a href="#" class="f-300 cod__black-color">Best Rated</a></li>
+                                                <li><a href="#" class="f-300 cod__black-color">Currently Serving</a></li>
                                             </ul>
                                             <a href="#" class="f-400 grenadier-color">View All <i class="icofont-long-arrow-right grenadier-color"></i></a>
                                         </div>
@@ -36,7 +36,7 @@
                                     </div>
                                     <div class="product--flex__right">
                                         <div class="product__content--top">
-                                            <span class="cate-name f-800 cod__black-color">Leather Shoe</span>
+                                            <span class="cate-name f-800 cod__black-color">Hoodies</span>
                                             <ul>
                                                 <li><a href="#" class="f-300 cod__black-color">About Us</a></li>
                                                 <li><a href="#" class="f-300 cod__black-color">Careers</a></li>
@@ -56,7 +56,7 @@
                                     </div>
                                     <div class="product--flex__right">
                                         <div class="product__content--top">
-                                            <span class="cate-name f-800 cod__black-color">Leather Shoe</span>
+                                            <span class="cate-name f-800 cod__black-color">Lower and Payjamas</span>
                                             <ul>
                                                 <li><a href="#" class="f-300 cod__black-color">About Us</a></li>
                                                 <li><a href="#" class="f-300 cod__black-color">Careers</a></li>
@@ -76,7 +76,7 @@
                                     </div>
                                     <div class="product--flex__right">
                                         <div class="product__content--top">
-                                            <span class="cate-name f-800 cod__black-color">Leather Shoe</span>
+                                            <span class="cate-name f-800 cod__black-color">Summer Articals</span>
                                             <ul>
                                                 <li><a href="#" class="f-300 cod__black-color">About Us</a></li>
                                                 <li><a href="#" class="f-300 cod__black-color">Careers</a></li>
@@ -96,7 +96,7 @@
                                     </div>
                                     <div class="product--flex__right">
                                         <div class="product__content--top">
-                                            <span class="cate-name f-800 cod__black-color">Leather Shoe</span>
+                                            <span class="cate-name f-800 cod__black-color">Winter Articals</span>
                                             <ul>
                                                 <li><a href="#" class="f-300 cod__black-color">About Us</a></li>
                                                 <li><a href="#" class="f-300 cod__black-color">Careers</a></li>
@@ -116,7 +116,7 @@
                                     </div>
                                     <div class="product--flex__right">
                                         <div class="product__content--top">
-                                            <span class="cate-name f-800 cod__black-color">Leather Shoe</span>
+                                            <span class="cate-name f-800 cod__black-color">Spring Articals</span>
                                             <ul>
                                                 <li><a href="#" class="f-300 cod__black-color">About Us</a></li>
                                                 <li><a href="#" class="f-300 cod__black-color">Careers</a></li>

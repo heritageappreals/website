@@ -35,10 +35,27 @@
                             <div class="row">
                                 <div class="col-lg-6 offset-lg-3">
                                     <div class="hero__caption text-center">
+                                        <span class="offer--title__hero f-800" data-animation="fadeInDown"
+                                            data-delay=".2s"style="color: white;">End Season Sale</span>
+                                        <h2 class="product--name__hero  f-200 mb-40" data-animation="fadeInUp"
+                                            data-delay=".5s"style="color: white;">Summer Sales</h2>
+                                        <p class="product--price__hero  mb-20" data-animation="fadeInLeft"
+                                            data-delay=".7s"style="color: white;"><span class="f-300">Wide Rang Start From</span><span
+                                                class="price f-800"><sup>Just</sup>90 Rupees</span><span class="f-300 ml-10">only</span></p>
+                                        <a href="#" class="btn orange-bg-btn f-700" data-animation="fadeInDown"
+                                            data-delay=".9s"style="color: white;">Start Buying</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="single__hero single-slider hero__bg pt-190 pb-180" data-background="img/bg/h3-hero-bg.jpg">
+                            <div class="row">
+                                <div class="col-lg-6 offset-lg-3">
+                                    <div class="hero__caption text-center">
                                         <span class="offer--title__hero cod__black-color f-800" data-animation="fadeInDown"
-                                            data-delay=".2s">End Season Sale</span>
+                                            data-delay=".2s" style> <h1>Best Clothing Menufecturer In Ludhiana <h1></span>
                                         <h2 class="product--name__hero cod__black-color f-200 mb-40" data-animation="fadeInUp"
-                                            data-delay=".5s">Summer Sales</h2>
+                                            data-delay=".5s">Wooden Furniture</h2>
                                         <p class="product--price__hero cod__black-color mb-20" data-animation="fadeInLeft"
                                             data-delay=".7s"><span class="f-300">Wide Rang Start From</span><span
                                                 class="price f-800"><sup>$</sup>252.00</span><span class="f-300 ml-10">only</span></p>
@@ -47,8 +64,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="single__hero single-slider hero__bg pt-190 pb-180" data-background="img/bg/h3-hero-bg.jpg">
+                        </div> -->
+                        <!-- <div class="single__hero single-slider hero__bg pt-190 pb-180" data-background="img/bg/h3-hero-bg.jpg">
                             <div class="row">
                                 <div class="col-lg-6 offset-lg-3">
                                     <div class="hero__caption text-center">
@@ -64,8 +81,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="single__hero single-slider hero__bg pt-190 pb-180" data-background="img/bg/h3-hero-bg.jpg">
+                        </div> -->
+                        <!-- <div class="single__hero single-slider hero__bg pt-190 pb-180" data-background="img/bg/h3-hero-bg.jpg">
                             <div class="row">
                                 <div class="col-lg-6 offset-lg-3">
                                     <div class="hero__caption text-center">
@@ -81,24 +98,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="single__hero single-slider hero__bg pt-190 pb-180" data-background="img/bg/h3-hero-bg.jpg">
-                            <div class="row">
-                                <div class="col-lg-6 offset-lg-3">
-                                    <div class="hero__caption text-center">
-                                        <span class="offer--title__hero cod__black-color f-800" data-animation="fadeInDown"
-                                            data-delay=".2s">End Season Sale</span>
-                                        <h2 class="product--name__hero cod__black-color f-200 mb-40" data-animation="fadeInUp"
-                                            data-delay=".5s">Wooden Furniture</h2>
-                                        <p class="product--price__hero cod__black-color mb-20" data-animation="fadeInLeft"
-                                            data-delay=".7s"><span class="f-300">Wide Rang Start From</span><span
-                                                class="price f-800"><sup>$</sup>252.00</span><span class="f-300 ml-10">only</span></p>
-                                        <a href="#" class="btn orange-bg-btn f-700" data-animation="fadeInDown"
-                                            data-delay=".9s">Start Buying</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
@@ -112,8 +112,8 @@
                             <div class="offer-banner offer--banner__bg mb-30" data-background="img/bg/1.jpg">
                                 <div class="offer--banner__text">
                                     <span class="f-800 cod__black-color ml-25">Clean Lines</span>
-                                    <h5 class="cod__black-color f-300">spring summer / 2020</h5>
-                                    <a href="shop-collection.html" class="f-800 ml-40">Shop Now<i class="icofont-long-arrow-right grenadier-color"></i></a>
+                                    <h5 class="cod__black-color f-300">spring summer / 2025</h5>
+                                    <a href="summer.php" class="f-800 ml-40">Shop Now<i class="icofont-long-arrow-right grenadier-color"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -121,16 +121,16 @@
                             <div class="offer-banner offer--banner__bg mb-30" data-background="img/bg/2.jpg">
                                 <div class="offer--banner__text text-center offer-middle">
                                     <span class="f-800 cod__black-color"><span class="f-300">in focus:</span> holiday mood</span>
-                                    <h5 class="cod__black-color f-300"><span class="f-800">TRF</span> spring summer 2020</h5>
+                                    <h5 class="cod__black-color f-300"><span class="f-800">TRF</span> spring summer 2025</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4">
                             <div class="offer-banner offer--banner__bg mb-30" data-background="img/bg/3.jpg">
                                 <div class="offer--banner__text">
-                                    <span class="f-800 cod__black-color ml-25">Striped Bag</span>
-                                    <h5 class="cod__black-color f-300">new collection from bags</h5>
-                                    <a href="shop-collection.html" class="f-800 ml-40">Shop Now<i class="icofont-long-arrow-right grenadier-color"></i></a>
+                                    <span class="f-800 cod__black-color ml-25">3 Thread Cotton Fleece </span>
+                                    <h5 class="cod__black-color f-300">New collection</h5>
+                                    <a href="trending.php" class="f-800 ml-40">Shop Now<i class="icofont-long-arrow-right grenadier-color"></i></a>
                                 </div>
                             </div>
                         </div>
