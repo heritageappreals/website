@@ -15,16 +15,14 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/allproducts/products__thumb__28.jpg" alt="">
-                                            <img class="img secondary-img" src="img/allproducts/products__thumb__21.jpg" alt="">
+                                            <img class="img" src="img/newarival/1.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">SAMSUNG</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                Degree</a></h6>
+                                        <span class="cate-name">Jovail</span>
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Polo Man T-Shirt</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
                                         <div class="rating">
@@ -32,12 +30,13 @@
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                <li><i class="fas fa-star"></i></li>
-                                                <li><i class="fas fa-star"></i></li>
+                                                <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                <li class="rating-active"><i class="fas fa-star"></i></li>
+                                              
                                             </ul>
                                         </div>
                                         <div class="price">
-                                            <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                            <h5 class="grenadier-color f-600">Connect us</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -54,14 +53,14 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/allproducts/products__thumb__29.jpg" alt="">
-                                            <img class="img secondary-img" src="img/allproducts/products__thumb__20.jpg" alt="">
+                                            <img class="img" src="img/newarival/2.png" alt="">
+                                            <img class="img secondary-img" src="img/newarival/2.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-25%</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">SAMSUNG</span>
+                                        <span class="cate-name">Jovail</span>
                                         <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
@@ -71,12 +70,12 @@
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                <li><i class="fas fa-star"></i></li>
-                                                <li><i class="fas fa-star"></i></li>
+                                                <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                <li class="rating-active"><i class="fas fa-star"></i></li>
                                             </ul>
                                         </div>
                                         <div class="price">
-                                            <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                            <h5 class="grenadier-color f-600">Connect us</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -93,14 +92,14 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/allproducts/products__thumb__30.jpg" alt="">
-                                            <img class="img secondary-img" src="img/allproducts/products__thumb__17.jpg" alt="">
+                                            <img class="img" src="img/newarival/3.png" alt="">
+                                            <img class="img secondary-img" src="img/newarival/3.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">SAMSUNG</span>
+                                        <span class="cate-name">Kudos</span>
                                         <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
@@ -115,7 +114,7 @@
                                             </ul>
                                         </div>
                                         <div class="price">
-                                            <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                            <h5 class="grenadier-color f-600">Connect us</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -132,14 +131,14 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/allproducts/products__thumb__31.jpg" alt="">
-                                            <img class="img secondary-img" src="img/allproducts/products__thumb__18.jpg" alt="">
+                                            <img class="img" src="img/newarival/4.png" alt="">
+                                            <img class="img secondary-img" src="img/newarival/4.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-10%</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">SAMSUNG</span>
+                                        <span class="cate-name">Kingslay</span>
                                         <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
@@ -154,7 +153,7 @@
                                             </ul>
                                         </div>
                                         <div class="price">
-                                            <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                            <h5 class="grenadier-color f-600">Connect us</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -171,14 +170,14 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/allproducts/products__thumb__32.jpg" alt="">
-                                            <img class="img secondary-img" src="img/allproducts/products__thumb__19.jpg" alt="">
+                                            <img class="img" src="img/newarival/5.png" alt="">
+                                            <img class="img secondary-img" src="img/newarival/5.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">SAMSUNG</span>
+                                        <span class="cate-name">Heritage</span>
                                         <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
@@ -193,7 +192,7 @@
                                             </ul>
                                         </div>
                                         <div class="price">
-                                            <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                            <h5 class="grenadier-color f-600">Connect us</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -210,14 +209,14 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/allproducts/products__thumb__28.jpg" alt="">
-                                            <img class="img secondary-img" src="img/allproducts/products__thumb__21.jpg" alt="">
+                                            <img class="img" src="img/newarival/6.png" alt="">
+                                            <img class="img secondary-img" src="img/newarival/6.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">SAMSUNG</span>
+                                        <span class="cate-name">Heritage</span>
                                         <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
@@ -232,7 +231,7 @@
                                             </ul>
                                         </div>
                                         <div class="price">
-                                            <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                            <h5 class="grenadier-color f-600">Connect us</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -249,14 +248,14 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/allproducts/products__thumb__29.jpg" alt="">
-                                            <img class="img secondary-img" src="img/allproducts/products__thumb__20.jpg" alt="">
+                                            <img class="img" src="img/newarival/7.png" alt="">
+                                            <img class="img secondary-img" src="img/newarival/7.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-25%</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">SAMSUNG</span>
+                                        <span class="cate-name">Heritage</span>
                                         <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
@@ -271,7 +270,7 @@
                                             </ul>
                                         </div>
                                         <div class="price">
-                                            <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                            <h5 class="grenadier-color f-600">Connect Us</h5>
                                         </div>
                                     </div>
                                 </div>
