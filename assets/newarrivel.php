@@ -15,7 +15,7 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/newarival/1.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/img/newarival/1.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
@@ -53,8 +53,8 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/newarival/2.png" alt="">
-                                            <img class="img secondary-img" src="img/newarival/2.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/img/newarival/2.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/2.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-25%</span>
@@ -92,8 +92,8 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/newarival/3.png" alt="">
-                                            <img class="img secondary-img" src="img/newarival/3.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/img/newarival/3.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/3.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
@@ -131,8 +131,8 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/newarival/4.png" alt="">
-                                            <img class="img secondary-img" src="img/newarival/4.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/img/newarival/4.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/4.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-10%</span>
@@ -170,8 +170,8 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/newarival/5.png" alt="">
-                                            <img class="img secondary-img" src="img/newarival/5.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/img/newarival/5.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/5.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
@@ -209,8 +209,8 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/newarival/6.png" alt="">
-                                            <img class="img secondary-img" src="img/newarival/6.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/img/newarival/6.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/6.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
@@ -248,8 +248,8 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="img/newarival/7.png" alt="">
-                                            <img class="img secondary-img" src="img/newarival/7.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/img/newarival/7.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/7.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-25%</span>
