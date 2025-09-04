@@ -178,7 +178,8 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="https://heritageappreals.com/in/products/men-plain-hoodie.php" class="img-wrapper">
+                                                <a href="https://heritageappreals.com/in/products/men-plain-hoodie.php"
+                                                    class="img-wrapper">
                                                     <img class="img"
                                                         src="https://heritageappreals.com/in/products/img/productimages/plain-black-hoodi01.webp"
                                                         alt="">
@@ -222,7 +223,8 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="https://heritageappreals.com/in/products/plain-spun-fleece-hoodie.php" class="img-wrapper">
+                                                <a href="https://heritageappreals.com/in/products/plain-spun-fleece-hoodie.php"
+                                                    class="img-wrapper">
                                                     <img class="img"
                                                         src="https://heritageappreals.com/in/products/img/productimages/spun-fleece-hoodie-1000x1000.webp"
                                                         alt="">
@@ -298,7 +300,8 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="http://heritageappreals.com/in/products/fleece-plain-hoodie-for-men.php" class="img-wrapper">
+                                                <a href="http://heritageappreals.com/in/products/fleece-plain-hoodie-for-men.php"
+                                                    class="img-wrapper">
                                                     <img class="img"
                                                         src="https://heritageappreals.com/in/products/img/productimages/product-jpeg-1000x1000.webp"
                                                         alt="">
@@ -310,7 +313,8 @@
                                             <div class="product__content--top">
                                                 <span class="cate-name">Hoodies</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="http://heritageappreals.com/in/products/fleece-plain-hoodie-for-men.php">Fleece Plain Hoodie For Men
+                                                        href="http://heritageappreals.com/in/products/fleece-plain-hoodie-for-men.php">Fleece
+                                                        Plain Hoodie For Men
                                                     </a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -329,23 +333,27 @@
                                                 </div>
                                             </div>
                                         </div>
-                                       
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="https://heritageappreals.com/in/products/cotton-blend-plain-hoodie.php" class="img-wrapper">
-                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/carolina-blue-1000x1000.webp"
+                                                <a href="https://heritageappreals.com/in/products/cotton-blend-plain-hoodie.php"
+                                                    class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/carolina-blue-1000x1000.webp"
                                                         alt="">
                                                     <img class="img secondary-img"
-                                                        src="https://heritageappreals.com/in/products/img/productimages/carolina-blue-1000x1000.webp" alt="">
+                                                        src="https://heritageappreals.com/in/products/img/productimages/carolina-blue-1000x1000.webp"
+                                                        alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">Hoodies</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="https://heritageappreals.com/in/products/cotton-blend-plain-hoodie.php">Cotton Blend Plain Hoodie
-</a></h6>
+                                                        href="https://heritageappreals.com/in/products/cotton-blend-plain-hoodie.php">Cotton
+                                                        Blend Plain Hoodie
+                                                    </a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -358,30 +366,33 @@
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                   <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
+                                                    <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
 ">Book Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                     
+
                                     </div>
                                 </div>
                                 <div class="shop--banner__active owl-carousel">
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__06.jpg"
+                                                <a href="https://heritageappreals.com/in/products/navy-blue-plain-men-hoodie.php"
+                                                    class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/zipper-hoodie.webp"
                                                         alt="">
                                                     <img class="img secondary-img"
-                                                        src="img/allproducts/products__thumb__08.jpg" alt="">
+                                                        src="https://heritageappreals.com/in/products/img/productimages/zipper-hoodie.webp"
+                                                        alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
+                                                <span class="cate-name">Hoodies</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
+                                                        href="https://heritageappreals.com/in/products/navy-blue-plain-men-hoodie.php">Navy
+                                                        Blue Plain Men Zipper Hoodie</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -389,37 +400,38 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__07.jpg"
+                                                <a href="https://heritageappreals.com/in/products/plain-350-gsm-gaze-trend-men-full-sleeves-fleece-hoodies.php"
+                                                    class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/women-s-cotton-plain-t-shirt-1000x1000%20(2).webp"
                                                         alt="">
                                                     <img class="img secondary-img"
-                                                        src="img/allproducts/products__thumb__09.jpg" alt="">
+                                                        src="https://heritageappreals.com/in/products/img/productimages/women-s-cotton-plain-t-shirt-1000x1000%20(2).webp"
+                                                        alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
+                                                <span class="cate-name">Full Sleeves Fleece Hoodie</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
+                                                        href="https://heritageappreals.com/in/products/plain-350-gsm-gaze-trend-men-full-sleeves-fleece-hoodies.php">Plain
+                                                        350 GSM Gaze Trend Men Full Sleeves Fleece Hoodie
+                                                    </a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -427,37 +439,37 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
+">Book Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg"
+                                                <a href="https://heritageappreals.com/in/products/plain-men-cotton-fleece-hoodies.php"
+                                                    class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/men-cotton-fleece-hoodies-1000x1000.webp"
                                                         alt="">
                                                     <img class="img secondary-img"
-                                                        src="img/allproducts/products__thumb__05.jpg" alt="">
+                                                        src="https://heritageappreals.com/in/products/img/productimages/men-cotton-fleece-hoodies-1000x1000.webp"
+                                                        alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
+                                                <span class="cate-name">Fleece Hoodie</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
+                                                        href="https://heritageappreals.com/in/products/plain-men-cotton-fleece-hoodies.php">Plain
+                                                        Men Cotton Fleece Hoodie
+                                                    </a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -465,21 +477,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -503,21 +512,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -541,21 +547,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -579,21 +582,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -617,21 +617,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                 </div>
                                 <div class="shop--banner__active owl-carousel">
@@ -657,21 +654,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -695,21 +689,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -733,21 +724,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -771,21 +759,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -809,21 +794,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -847,21 +829,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
@@ -885,21 +864,18 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
                                                     </ul>
                                                 </div>
                                                 <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                    <h5 class="grenadier-color f-600"><a
+                                                            href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Book
+                                                            Now</a></h5>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>
