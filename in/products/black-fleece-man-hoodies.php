@@ -151,11 +151,7 @@
                                     </select>
                                 </div>
                             </form>
-                            <a href="#" class="cart-button">Call Us Today</a>
-                            <a href="#" class="buy-button">Buy Now</a>
-                            <div class="last pt-15">
-                                <a href="#">Whatsapp</a>
-                                <a href="#">We-Chat</a>
+                            <?php include 'whatsappwhatsapp.php';?>
                             </div>
                         </div>
                     </div>
