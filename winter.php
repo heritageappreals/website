@@ -493,18 +493,18 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__09.jpg"
+                                                <a href="https://heritageappreals.com/in/products/plain-fleece-men-hoodies.php" class="img-wrapper">
+                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/mens-polo-t-shirt-1000x1000.webp"
                                                         alt="">
                                                     <img class="img secondary-img"
-                                                        src="img/allproducts/products__thumb__03.jpg" alt="">
+                                                        src="https://heritageappreals.com/in/products/img/productimages/mens-polo-t-shirt-1000x1000.webp" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
+                                                <span class="cate-name">Hoodies</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
+                                                        href="https://heritageappreals.com/in/products/plain-fleece-men-hoodies.php">Plain Fleece Men Hoodie
+</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -528,18 +528,18 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__10.jpg"
+                                                <a href="https://heritageappreals.com/in/products/fleece-mens-hoodies.php" class="img-wrapper">
+                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/f7cc987ca135f9f05470c7c1761139203dd6c55b-asket-hod-ma-dkn-slideshow-1-1000x1000.webp"
                                                         alt="">
                                                     <img class="img secondary-img"
-                                                        src="img/allproducts/products__thumb__02.jpg" alt="">
+                                                        src="https://heritageappreals.com/in/products/img/productimages/f7cc987ca135f9f05470c7c1761139203dd6c55b-asket-hod-ma-dkn-slideshow-1-1000x1000.webp" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
+                                                <span class="cate-name">Hoodies</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
+                                                        href="https://heritageappreals.com/in/products/fleece-mens-hoodies.php">Fleece Mens Hoodie
+</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -563,18 +563,18 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__11.jpg"
+                                                <a href="https://heritageappreals.com/in/products/cotton-mens-plain-round-neck-sweatshirt.php" class="img-wrapper">
+                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/mens-plain-round-neck-sweatshirt-1000x1000.webp"
                                                         alt="">
                                                     <img class="img secondary-img"
-                                                        src="img/allproducts/products__thumb__06.jpg" alt="">
+                                                        src="https://heritageappreals.com/in/products/img/productimages/mens-plain-round-neck-sweatshirt-1000x1000.webp" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
+                                                <span class="cate-name">Sweatshirt</span>
                                                 <h6 class="product__title mine__shaft-color f-700 mb-0"><a
-                                                        href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
+                                                        href="https://heritageappreals.com/in/products/cotton-mens-plain-round-neck-sweatshirt.php">Cotton Mens Plain Round Neck Sweatshirt
+</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
