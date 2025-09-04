@@ -16,13 +16,13 @@
     <link rel="stylesheet" href="css/meanmenu.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
- <?php include 'assets/head.php';?>
+    <?php include 'assets/head.php';?>
 </head>
 
 <body>
-       <?php include 'assets/body.php';?>
-         <?php include 'assets/header.php';?>
-        <!-- Header end /-->
+    <?php include 'assets/body.php';?>
+    <?php include 'assets/header.php';?>
+    <!-- Header end /-->
 
     <!-- Main -->
     <main class="main--wrapper">
@@ -31,13 +31,15 @@
         <div class="product shop-page pt-80 pb-80">
             <div class="container">
                 <div class="row">
-                     <?php include 'assets/winterslider.php';?>
+                    <?php include 'assets/winterslider.php';?>
                     <div class="col-lg-9 order-1 order-lg-2">
                         <div class="row">
                             <div class="col-sm-12">
-                                <div class="shop-banner-bg pt-60 pb-60 mb-50" data-background="img/bg/shop-banner-bg.jpg">
+                                <div class="shop-banner-bg pt-60 pb-60 mb-50"
+                                    data-background="img/bg/shop-banner-bg.jpg">
                                     <div class="collection-text">
-                                        <h5 class="f-800"><a href="#" style="color: white;">Best Winter Apparel Manufacturer Company</a></h5>
+                                        <h5 class="f-800"><a href="#" style="color: white;">Best Winter Apparel
+                                                Manufacturer Company</a></h5>
                                         <!--<span class="f-200 mb-40">Shopping Under $399</span>-->
                                         <!--<div class="product-countdown-three">-->
                                         <!--    <div class="time-count-deal">-->
@@ -55,7 +57,8 @@
                                         <h4 class="f-800 cod__black-color">Shop</h4>
                                         <nav aria-label="breadcrumb">
                                             <ol class="breadcrumb">
-                                                <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
+                                                <li class="breadcrumb-item"><a
+                                                        href="https://heritageappreals.com/">Home</a></li>
                                                 <li class="breadcrumb-item active" aria-current="page">Shop.</li>
                                             </ol>
                                         </nav>
@@ -92,14 +95,21 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="https://heritageappreals.com/in/products/plain-280-gsm-gaze-trend-men-full-sleeves-fleece-hoodies.php" class="img-wrapper">
-                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/kids-plain-t-shirt-1000x1000%20(1).webp" alt="">
-                                                    <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/kids-plain-t-shirt-1000x1000.webp" alt="">
+                                                <a href="https://heritageappreals.com/in/products/plain-280-gsm-gaze-trend-men-full-sleeves-fleece-hoodies.php"
+                                                    class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/kids-plain-t-shirt-1000x1000%20(1).webp"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/kids-plain-t-shirt-1000x1000.webp"
+                                                        alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <!--<span class="cate-name">SAMSUNG</span>-->
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="https://heritageappreals.com/in/products/plain-280-gsm-gaze-trend-men-full-sleeves-fleece-hoodies.php">Plain 280 GSM Gaze Trend Men Full Sleeves Fleece Hoodies</a></h6>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="https://heritageappreals.com/in/products/plain-280-gsm-gaze-trend-men-full-sleeves-fleece-hoodies.php">Plain
+                                                        280 GSM Gaze Trend Men Full Sleeves Fleece Hoodies</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -109,7 +119,7 @@
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
                                                         <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                      
+
                                                     </ul>
                                                 </div>
                                                 <div class="price">
@@ -128,15 +138,22 @@
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
-                                                <a href="https://heritageappreals.com/in/products/300gsm-cotton-fleece-hoodie-for-men.php" class="img-wrapper">
-                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/customizable-300gsm-cotton-fleece-hoodie-for-men-1000x1000.webp" alt="">
-                                                    <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/customizable-300gsm-cotton-fleece-hoodie-for-men-1000x1000%20(3).webp" alt="">
+                                                <a href="https://heritageappreals.com/in/products/300gsm-cotton-fleece-hoodie-for-men.php"
+                                                    class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/customizable-300gsm-cotton-fleece-hoodie-for-men-1000x1000.webp"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/customizable-300gsm-cotton-fleece-hoodie-for-men-1000x1000%20(3).webp"
+                                                        alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <!--<span class="cate-name">SAMSUNG</span>-->
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="https://heritageappreals.com/in/products/300gsm-cotton-fleece-hoodie-for-men.php">300gsm cotton fleece full sleeves hoodie for <br>men 
-</a></h6>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="https://heritageappreals.com/in/products/300gsm-cotton-fleece-hoodie-for-men.php">300gsm
+                                                        cotton fleece full sleeves hoodie for <br>men
+                                                    </a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -156,20 +173,26 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        
+
                                     </div>
                                     <div class="product__single">
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/plain-black-hoodi01.webp" alt="">
-                                                    <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/plain-black-hoodi01.webp" alt="">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/plain-black-hoodi01.webp"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/plain-black-hoodi01.webp"
+                                                        alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <!--<span class="cate-name">SAMSUNG</span>-->
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="https://heritageappreals.com/in/products/men-plain-hoodie.php">Mens Plain Hoodies
-</a></h6>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="https://heritageappreals.com/in/products/men-plain-hoodie.php">Mens
+                                                        Plain Hoodies
+                                                    </a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
@@ -183,7 +206,7 @@
                                                         <!--<li><i class="fas fa-star"></i></li>-->
                                                     </ul>
                                                 </div>
-                                                 <div class="price">
+                                                <div class="price">
                                                     <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
 ">Book Now</a></h5>
                                                 </div>
@@ -200,13 +223,164 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__04.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__03.jpg" alt="">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/spun-fleece-hoodie-1000x1000.webp"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/spun-fleece-hoodie-1000x1000.webp"
+                                                        alt="">
+                                                </a>
+                                            </div>
+                                            <div class="product__content--top">
+                                                <span class="cate-name">Hoodies</span>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="https://heritageappreals.com/in/products/plain-spun-fleece-hoodie.php">Plain
+                                                        Spun Fleece Hoodie
+                                                    </a></h6>
+                                            </div>
+                                            <div class="product__content--rating d-flex justify-content-between">
+                                                <div class="rating">
+                                                    <ul class="list-inline">
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="price">
+                                                    <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
+">Book Now</a></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="product__single">
+                                        <div class="product__box">
+                                            <div class="product__thumb">
+                                                <a href="https://heritageappreals.com/in/products/cotton-blend-mens-hoodies.php"
+                                                    class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/mens-hoodies-1000x1000.webp"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/mens-hoodies-1000x1000.webp"
+                                                        alt="">
+                                                </a>
+                                            </div>
+                                            <div class="product__content--top">
+                                                <span class="cate-name">Hoodies</span>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="https://heritageappreals.com/in/products/cotton-blend-mens-hoodies.php">Cotton
+                                                        Blend Mens Hoodies
+
+                                                    </a></h6>
+                                            </div>
+                                            <div class="product__content--rating d-flex justify-content-between">
+                                                <div class="rating">
+                                                    <ul class="list-inline">
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="price">
+                                                    <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
+">Book Now</a></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="product__single">
+                                        <div class="product__box">
+                                            <div class="product__thumb">
+                                                <a href="product-details.html" class="img-wrapper">
+                                                    <img class="img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/product-jpeg-1000x1000.webp"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/product-jpeg-1000x1000.webp"
+                                                        alt="">
+                                                </a>
+                                            </div>
+                                            <div class="product__content--top">
+                                                <span class="cate-name">Hoodies</span>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Fleece Plain Hoodie For Men
+                                                    </a></h6>
+                                            </div>
+                                            <div class="product__content--rating d-flex justify-content-between">
+                                                <div class="rating">
+                                                    <ul class="list-inline">
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="price">
+                                                    <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
+">Book Now</a></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                       
+                                    </div>
+                                    <div class="product__single">
+                                        <div class="product__box">
+                                            <div class="product__thumb">
+                                                <a href="https://heritageappreals.com/in/products/cotton-blend-plain-hoodie.php" class="img-wrapper">
+                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/carolina-blue-1000x1000.webp"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="https://heritageappreals.com/in/products/img/productimages/carolina-blue-1000x1000.webp" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="product__content--top">
+                                                <span class="cate-name">Hoodies</span>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="https://heritageappreals.com/in/products/cotton-blend-plain-hoodie.php">Cotton Blend Plain Hoodie
+</a></h6>
+                                            </div>
+                                            <div class="product__content--rating d-flex justify-content-between">
+                                                <div class="rating">
+                                                    <ul class="list-inline">
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="price">
+                                                   <h5 class="grenadier-color f-600"><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0
+">Book Now</a></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                     
+                                    </div>
+                                </div>
+                                <div class="shop--banner__active owl-carousel">
+                                    <div class="product__single">
+                                        <div class="product__box">
+                                            <div class="product__thumb">
+                                                <a href="product-details.html" class="img-wrapper">
+                                                    <img class="img" src="img/allproducts/products__thumb__06.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__08.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -235,13 +409,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__05.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__04.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__07.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__09.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -270,13 +447,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__11.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__06.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__05.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -305,13 +485,130 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__06.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__01.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__09.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__03.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
+                                                        Degree</a></h6>
+                                            </div>
+                                            <div class="product__content--rating d-flex justify-content-between">
+                                                <div class="rating">
+                                                    <ul class="list-inline">
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="price">
+                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="product-action">
+                                            <a href="#"><span class="lnr lnr-heart"></span></a>
+                                            <a href="#"><span class="lnr lnr-eye"></span></a>
+                                            <a href="#"><span class="lnr lnr-cart"></span></a>
+                                            <a href="#"><span class="lnr lnr-sync"></span></a>
+                                        </div>
+                                    </div>
+                                    <div class="product__single">
+                                        <div class="product__box">
+                                            <div class="product__thumb">
+                                                <a href="product-details.html" class="img-wrapper">
+                                                    <img class="img" src="img/allproducts/products__thumb__10.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__02.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="product__content--top">
+                                                <span class="cate-name">SAMSUNG</span>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
+                                                        Degree</a></h6>
+                                            </div>
+                                            <div class="product__content--rating d-flex justify-content-between">
+                                                <div class="rating">
+                                                    <ul class="list-inline">
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="price">
+                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="product-action">
+                                            <a href="#"><span class="lnr lnr-heart"></span></a>
+                                            <a href="#"><span class="lnr lnr-eye"></span></a>
+                                            <a href="#"><span class="lnr lnr-cart"></span></a>
+                                            <a href="#"><span class="lnr lnr-sync"></span></a>
+                                        </div>
+                                    </div>
+                                    <div class="product__single">
+                                        <div class="product__box">
+                                            <div class="product__thumb">
+                                                <a href="product-details.html" class="img-wrapper">
+                                                    <img class="img" src="img/allproducts/products__thumb__11.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__06.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="product__content--top">
+                                                <span class="cate-name">SAMSUNG</span>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
+                                                        Degree</a></h6>
+                                            </div>
+                                            <div class="product__content--rating d-flex justify-content-between">
+                                                <div class="rating">
+                                                    <ul class="list-inline">
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                        <li><i class="fas fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="price">
+                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="product-action">
+                                            <a href="#"><span class="lnr lnr-heart"></span></a>
+                                            <a href="#"><span class="lnr lnr-eye"></span></a>
+                                            <a href="#"><span class="lnr lnr-cart"></span></a>
+                                            <a href="#"><span class="lnr lnr-sync"></span></a>
+                                        </div>
+                                    </div>
+                                    <div class="product__single">
+                                        <div class="product__box">
+                                            <div class="product__thumb">
+                                                <a href="product-details.html" class="img-wrapper">
+                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__04.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="product__content--top">
+                                                <span class="cate-name">SAMSUNG</span>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -342,13 +639,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__06.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__08.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__04.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -377,13 +677,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__07.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__09.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__07.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__09.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -412,13 +715,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__05.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__13.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__05.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -447,13 +753,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__09.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__03.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__14.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__03.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -482,13 +791,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__10.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__02.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__10.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__02.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -517,13 +829,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__11.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__06.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__11.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__06.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -552,260 +867,16 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__04.jpg" alt="">
+                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg"
+                                                        alt="">
+                                                    <img class="img secondary-img"
+                                                        src="img/allproducts/products__thumb__04.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
-                                            </div>
-                                            <div class="product__content--rating d-flex justify-content-between">
-                                                <div class="rating">
-                                                    <ul class="list-inline">
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="shop--banner__active owl-carousel">
-                                    <div class="product__single">
-                                        <div class="product__box">
-                                            <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__04.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
-                                            </div>
-                                            <div class="product__content--rating d-flex justify-content-between">
-                                                <div class="rating">
-                                                    <ul class="list-inline">
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
-                                    </div>
-                                    <div class="product__single">
-                                        <div class="product__box">
-                                            <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__07.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__09.jpg" alt="">
-                                                </a>
-                                            </div>
-                                                <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
-                                            </div>
-                                            <div class="product__content--rating d-flex justify-content-between">
-                                                <div class="rating">
-                                                    <ul class="list-inline">
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
-                                    </div>
-                                    <div class="product__single">
-                                        <div class="product__box">
-                                            <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__13.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__05.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
-                                            </div>
-                                            <div class="product__content--rating d-flex justify-content-between">
-                                                <div class="rating">
-                                                    <ul class="list-inline">
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
-                                    </div>
-                                    <div class="product__single">
-                                        <div class="product__box">
-                                            <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__14.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__03.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
-                                            </div>
-                                            <div class="product__content--rating d-flex justify-content-between">
-                                                <div class="rating">
-                                                    <ul class="list-inline">
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
-                                    </div>
-                                    <div class="product__single">
-                                        <div class="product__box">
-                                            <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__10.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__02.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
-                                            </div>
-                                            <div class="product__content--rating d-flex justify-content-between">
-                                                <div class="rating">
-                                                    <ul class="list-inline">
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
-                                    </div>
-                                    <div class="product__single">
-                                        <div class="product__box">
-                                            <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__11.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__06.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
-                                            </div>
-                                            <div class="product__content--rating d-flex justify-content-between">
-                                                <div class="rating">
-                                                    <ul class="list-inline">
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                        <li><i class="fas fa-star"></i></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="price">
-                                                    <h5 class="grenadier-color f-600">$2,299.00</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-action">
-                                            <a href="#"><span class="lnr lnr-heart"></span></a>
-                                            <a href="#"><span class="lnr lnr-eye"></span></a>
-                                            <a href="#"><span class="lnr lnr-cart"></span></a>
-                                            <a href="#"><span class="lnr lnr-sync"></span></a>
-                                        </div>
-                                    </div>
-                                    <div class="product__single">
-                                        <div class="product__box">
-                                            <div class="product__thumb">
-                                                <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__08.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__04.jpg" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="product__content--top">
-                                                <span class="cate-name">SAMSUNG</span>
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a
+                                                        href="product-details.html">Wireless Audioing Systems Purple
                                                         Degree</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
@@ -838,12 +909,14 @@
                                 <div class="common-pagination">
                                     <nav aria-label="Page navigation example">
                                         <ul class="pagination">
-                                            <li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-left"></i> Prev</a></li>
+                                            <li class="page-item"><a class="page-link" href="#"><i
+                                                        class="fas fa-angle-left"></i> Prev</a></li>
                                             <li class="page-item"><a class="page-link" href="#">1</a></li>
                                             <li class="page-item"><a class="page-link" href="#">2</a></li>
                                             <li class="page-item"><a class="page-link" href="#">3</a></li>
                                             <li class="page-item"><a class="page-link" href="#">4</a></li>
-                                            <li class="page-item"><a class="page-link" href="#">Next <i class="fas fa-angle-right"></i></a></li>
+                                            <li class="page-item"><a class="page-link" href="#">Next <i
+                                                        class="fas fa-angle-right"></i></a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -856,14 +929,14 @@
         <!-- shop area end -->
 
         <!-- Subscribe -->
-         <?php include 'assets/colournewsletter.php';?>
+        <?php include 'assets/colournewsletter.php';?>
         <!-- Subscribe End -->
 
     </main>
     <!-- Main End -->
 
     <!-- Footer -->
-       <?php include 'assets/footer.php';?>
+    <?php include 'assets/footer.php';?>
     <!-- Footer End -->
 
 
