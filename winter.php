@@ -162,14 +162,14 @@
                                         <div class="product__box">
                                             <div class="product__thumb">
                                                 <a href="product-details.html" class="img-wrapper">
-                                                    <img class="img" src="img/allproducts/products__thumb__03.jpg" alt="">
-                                                    <img class="img secondary-img" src="img/allproducts/products__thumb__01.jpg" alt="">
+                                                    <img class="img" src="https://heritageappreals.com/in/products/img/productimages/plain-black-hoodi01.webp" alt="">
+                                                    <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/plain-black-hoodi01.webp" alt="">
                                                 </a>
                                             </div>
                                             <div class="product__content--top">
                                                 <!--<span class="cate-name">SAMSUNG</span>-->
-                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                        Degree</a></h6>
+                                                <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="https://heritageappreals.com/in/products/men-plain-hoodie.php">Mens Plain Hoodies
+</a></h6>
                                             </div>
                                             <div class="product__content--rating d-flex justify-content-between">
                                                 <div class="rating">
