@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Hooded Plain Men’s Zipper Hoodie – Bulk Manufacturer | Heritage Appreals Ludhiana</title>
-    <meta name="description" content="Comfortable plain hooded zipper hoodies for men. Manufactured for wholesale buyers, retailers, and exporters.">
+    <title>Hooded Plain Men'S Zipper Hoodies Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Hooded Plain Men'S Zipper Hoodies Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
