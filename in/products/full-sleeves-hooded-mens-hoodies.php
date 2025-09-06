@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Men’s Full Sleeves Hooded Hoodie – Bulk Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Versatile and stylish full-sleeve hoodies for men. Manufactured for wholesale buyers, retail brands, and export supply. ">
+    <title> Full Sleeves Hooded MENS HOODIE Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Full Sleeves Hooded MENS HOODIE Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

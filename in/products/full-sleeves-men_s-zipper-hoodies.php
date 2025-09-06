@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Full Sleeves Men’s Zipper Hoodies – Bulk Winterwear Supplier | Heritage Appreals</title>
-    <meta name="description" content="Comfortable and stylish full-sleeve zipper hoodies for men. Manufactured for wholesale buyers, ideal for winter retail collections and corporate gifting.">
+    <title>Full Sleeves Men's Zipper Hoodies Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Full Sleeves Men's Zipper Hoodies Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

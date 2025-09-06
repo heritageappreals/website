@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Cotton Men’s White Hoodie – Bulk Winterwear Supply | Heritage Appreals</title>
-    <meta name="description" content="Elegant white cotton hoodies for men. Ideal for bulk wholesale buyers, retail fashion brands, and custom printing orders.">
+    <title> Cotton Men White Hoodie Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Cotton Men White Hoodie Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

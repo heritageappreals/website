@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Men’s Full Sleeve Fleece Hoodie – Wholesale Supplier | Heritage Appreals Ludhiana</title>
-    <meta name="description" content="Cozy fleece hoodies with full sleeves, crafted for warmth and style. Available in bulk for retailers, exporters, and corporate apparel.">
+    <title>Full Sleeves Mens Fleece Hoodie | Heritage Appreals Ludhiana</title>
+    <meta name="description" content="Stay warm and comfortable with the Full Sleeves Mens Fleece Hoodie by Heritage Appreals, Ludhiana. Made from soft, durable fleece, this hoodie offers cozy comfort and a versatile design perfect for casual, sporty, or winter wear.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
@@ -40,7 +40,7 @@
                                     <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
                                     <li class="breadcrumb-item"><a href="index-2.html">Winter Collection</a></li>
                                     <li class="breadcrumb-item"><a href="index-2.html">Hoodies</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page"> Full Sleeves Mens Fleece Hoodie
+                                    <li class="breadcrumb-item active" aria-current="page">Full Sleeves Mens Fleece Hoodie
                                     </li>
                                 </ol>
                             </nav>
@@ -96,14 +96,14 @@
                     <div class="col-lg-4 col-md-12 order-3 order-lg-2">
                         <div class="pro-content">
                             <span>Hoodies</span>
-                            <h5 class="title"> Full Sleeves Mens Fleece Hoodie</h5>
+                            <h5 class="title">Full Sleeves Mens Fleece Hoodie</h5>
                             <div class="pro-rating pb-40">
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
-                                <a href="#" class="review">(29 customer reviews)</a>
+                                <a href="#" class="review">(8 customer reviews)</a>
                             </div>
                             <div class="pro-social mb-45">
                                 <a href="#"><img src="img/payment/pro-details-social.jpg" class="img-fluid" alt=""></a>
@@ -120,7 +120,7 @@
                             </div>
                             <div class="pro-code pt-25">
                                 <ul>
-                                    <li>SKU: <span>FW247518948818</span></li>
+                                    <li>SKU: <span>FW51194881819</span></li>
                                     <li>Tag: <span>Hoodie</span></li>
                                 </ul>
                             </div>
@@ -144,8 +144,8 @@
                                     <select name="select">
                                         <option value="1">Green</option>
                                         <option value="2">Maroon</option>
-                                        <option value="3">White</option>
-                                        <option value="4">Black</option>
+                                        <option value="3">Black</option>
+                                        <option value="4">White</option>
                                         <option value="4">Grey</option>
 
                                     </select>
@@ -181,7 +181,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab11" data-toggle="tab" href="#contact11"
-                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(29)</a>
+                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(8)</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent1">
@@ -243,15 +243,11 @@
                                             <div class="col-md-12">
                                                 <div class="single-content mb-40">
                                                     <!-- <h5 class="title">Perfactly Done</h5> -->
-                                                    <p>Step up your winterwear collection with the Full Sleeves Men’s Fleece Hoodie, a classic blend of warmth, style, and versatility—tailor-made for bulk buyers and brand retailers. Manufactured by Heritage Appreals, a well-established Ludhiana-based industry, this hoodie is the perfect solution for businesses seeking high-quality apparel for casual wear collections, uniform supply, or private labeling.
+                                                    <p>The Full Sleeves Men’s Fleece Hoodie by Heritage Appreals, Ludhiana is crafted for those who value comfort, style, and versatility in their casual wear. Made from premium fleece fabric, this hoodie provides exceptional warmth and softness, making it ideal for chilly days while ensuring breathability and long-lasting wear.
 
-Crafted from premium fleece material, this hoodie delivers cozy insulation while maintaining a lightweight and breathable profile. Its soft inner lining ensures comfort throughout the day, making it ideal for chilly mornings, casual outings, or indoor layering. Whether it’s for college students, working professionals, or retail consumers, this fleece hoodie meets diverse everyday lifestyle needs.
+Designed with full sleeves and a classic hooded style, it offers a relaxed and comfortable fit suitable for everyday activities, casual outings, or weekend leisure. The hoodie is available in multiple colors including White, Pink, Red, and Black, allowing you to choose according to your personal style or mix and match with various outfits. Its plain and minimalistic design ensures timeless appeal and makes it easy to pair with jeans, joggers, or shorts.
 
-Available in a wide color range including white, pink, red, black, and more, this product gives buyers the freedom to curate a vibrant, inclusive, and fashion-forward catalog. The plain pattern offers a clean, minimal look, while also providing the perfect base for custom logos, branding, or embroidery—a major plus for those targeting promotional wear or brand merchandising.
-
-Designed with full sleeves, ribbed cuffs, and a roomy hood, this hoodie combines functionality with aesthetics. Sizes range from S to XL, with the option for extended sizing on bulk production orders. Whether your business deals in e-commerce, physical retail, campus stores, or event merchandise, this hoodie provides scalable quality you can trust.
-
-Heritage Appreals also supports OEM and ODM services, offering custom options in size sets, packaging, color combinations, and private labeling. The product is designed to maintain its shape, texture, and visual appeal even after repeated use and machine washing, ensuring lasting satisfaction for end users.</div>
+Available in sizes S, M, L, and XL, this hoodie is tailored to provide a comfortable fit for all body types. Manufactured in India by Heritage Appreals, Ludhiana, it reflects superior craftsmanship, durability, and attention to detail. Whether for casual wear or layering during colder months, this fleece hoodie is a must-have staple in every man’s wardrobe.</div>
                                             </div>
                                             <!-- <div class="col-md-6">
                                                 <div class="single-content mb-40">
@@ -284,153 +280,45 @@ Heritage Appreals also supports OEM and ODM services, offering custom options in
                                     <div class="desc-content mt-60">
                                         <div class="row">
                                             <div class="col-md-12">
- <div class="single-content mb-40">
-    <h5 class="title">Ritika Sahni</h5>
-    <p>We've used these hoodies for three different campaigns—they’re always well received and trusted.</p>
+<div class="single-content mb-40">
+    <h5 class="title">Rohan Bhatia</h5>
+    <p>Soft, warm, and stylish — perfect for casual weekends and outdoor walks.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Aarush Chopra</h5>
-    <p>Great for winter giveaways. Warm, durable, and stylish—all at a reasonable price.</p>
+    <h5 class="title">Anika Kapoor</h5>
+    <p>The hoodie has a modern fit and premium fabric, really comfortable to wear.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Aanya Bedi</h5>
-    <p>Noticed zero shrinkage after multiple washes. That helps maintain long-term satisfaction.</p>
+    <h5 class="title">Kartik Mehra</h5>
+    <p>Excellent stitching, durable, and very cozy for winter evenings.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Krish Lal</h5>
-    <p>Everyone on our team wanted one after seeing the sample. We placed a bulk order right away!</p>
+    <h5 class="title">Sanya Malhotra</h5>
+    <p>Looks classy, fits perfectly, and keeps me warm without being bulky.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Sia Narang</h5>
-    <p>Minimal branding space and solid base color make it ideal for event customization.</p>
+    <h5 class="title">Aditya Singh</h5>
+    <p>Great hoodie for everyday wear — soft, lightweight, and durable.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Yug Goel</h5>
-    <p>We needed hoodies on short notice and Heritage Appreals delivered perfectly packed units on time.</p>
+    <h5 class="title">Priya Sharma</h5>
+    <p>Very happy with the fabric and design — trendy yet comfortable.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Tia Randhawa</h5>
-    <p>Our boutique buyers now prefer these over imported options. Indian-made and world-class.</p>
+    <h5 class="title">Raghav Arora</h5>
+    <p>The hoodie fits true to size, soft inside, and stylish outside.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Kabir Oberoi</h5>
-    <p>The material has a luxury touch to it. Customers often compare it to high-end brands.</p>
+    <h5 class="title">Isha Verma</h5>
+    <p>Perfect hoodie for winter layering, cozy and looks very fashionable.</p>
 </div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Aadhya Nair</h5>
-    <p>Works well for school uniforms too—smart, warm, and easy to wear all day.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Dev Mahajan</h5>
-    <p>The hoodie fit is relaxed yet tailored. That rare combination is what our buyers love.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Navya Chopra</h5>
-    <p>We got great customer photos using these hoodies. They helped boost engagement online.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Reyansh Bassi</h5>
-    <p>Zip quality, stitch detail, and fleece consistency are better than expected for this price.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Kiara Sethi</h5>
-    <p>Folded perfectly in boxes with no wrinkles. Saved hours during retail display setup.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Vivaan Nanda</h5>
-    <p>Works equally well for men and women. We’ve sold more unisex hoodies than ever before.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Meher Virdi</h5>
-    <p>The neutral tones are bestsellers—especially grey, navy, and army green.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Ayaan Kaul</h5>
-    <p>Perfect for winter school fests. They kept students warm while matching the team vibe.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Aaradhya Talwar</h5>
-    <p>We’ve started bundling them with beanies and they sell as gift sets now. Very effective!</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Yash Gera</h5>
-    <p>Heritage Appreals never misses on hoodie orders. On-time, on-point, every single time.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Saanvi Duggal</h5>
-    <p>Even customers who usually avoid hoodies liked these because of the fit and fleece quality.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Rudra Bajwa</h5>
-    <p>The hood is stitched in a way that doesn’t bunch or hang awkwardly. Great shape retention.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Avni Mathur</h5>
-    <p>We noticed the color doesn’t fade even after regular wear in the sun. Very durable dyes used.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Shaurya Bindra</h5>
-    <p>We rebranded our casualwear line around these hoodies. They gave us a fresh image.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Inaaya Johar</h5>
-    <p>Ideal for bulk corporate gifting. Classy, cozy, and easy to brand with embroidery.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Krishan Bansal</h5>
-    <p>Very practical winterwear item. We pair it with joggers and display as winter sets.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Anvi Dabas</h5>
-    <p>We’ve tested hoodies from 4 vendors—Heritage Appreals was the clear winner in quality and feedback.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Reyansh Ahuja</h5>
-    <p>Even our choosy buyers had nothing negative to say. That rarely happens in our store!</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Jiya Sahrawat</h5>
-    <p>Got the exact quantity, sizing breakdown, and colors as ordered. Very professional process.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Aarav Shergill</h5>
-    <p>The hoodies feel luxurious and warm. A no-brainer for winter merchandise planning.</p>
-</div>
-
-<div class="single-content mb-40">
-    <h5 class="title">Sia Bhatia</h5>
-    <p>Stylish without being loud. Clean, minimal design makes it wearable for any age group.</p>
-</div>
-
-
-
 
 
 

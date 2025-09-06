@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Fleece Plain Men Sweatshirt – Wholesale Supply – Heritage Appreals Ludhiana</title>
-    <meta name="description" content="Order Fleece Plain Sweatshirts for Men from Heritage Appreals, Ludhiana in bulk. Great for winter retail collections and branding projects.">
+    <title>Fleece Plain Men Sweatshirt Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Fleece Plain Men Sweatshirt Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
@@ -55,15 +55,15 @@
                                     aria-labelledby="home-tab5">
                                     
                                     
-                                    <img src="img/productimages/sweatshirt2-1000x1000.webp"
+                                    <img src="img/productimages/plain-men-sweatshirt-1000x1000.webp"
                                         class="img-fluid" alt=""></div>
 
                                 <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile-tab5">
-                                    <img src="img/productimages/sweatshirt2-1000x1000 (1).webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/plain-men-sweatshirt-1000x1000.webp" class="img-fluid" alt="">
                                 </div>
 
                                 <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact-tab5">
-                                    <img src="img/productimages/sweatshirt3-1000x1000.webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/plain-men-sweatshirt-1000x1000.webp" class="img-fluid" alt="">
                                 </div>
                             </div>
 
@@ -75,19 +75,19 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/productimages/sweatshirt2-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/plain-men-sweatshirt-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="profile-tab5" data-toggle="tab" href="#profile5" role="tab"
                                         aria-controls="profile5" aria-selected="false">
-                                        <img src="img/productimages/sweatshirt2-1000x1000 (1).webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/plain-men-sweatshirt-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact5" role="tab"
                                         aria-controls="contact5" aria-selected="false">
-                                        <img src="img/productimages/sweatshirt3-1000x1000.webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/plain-men-sweatshirt-1000x1000.webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                             </ul>
@@ -95,32 +95,32 @@
                     </div>
                     <div class="col-lg-4 col-md-12 order-3 order-lg-2">
                         <div class="pro-content">
-                            <span>Hoodies</span>
-                            <h5 class="title">Cotton Mens Plain Round Neck Sweatshirt</h5>
+                            <span>Sweatshirt</span>
+                            <h5 class="title">Fleece Plain Men Sweatshirt</h5>
                             <div class="pro-rating pb-40">
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
-                                <a href="#" class="review">(7customer reviews)</a>
+                                <a href="#" class="review">(8 customer reviews)</a>
                             </div>
                             <div class="pro-social mb-45">
                                 <a href="#"><img src="img/payment/pro-details-social.jpg" class="img-fluid" alt=""></a>
                             </div>
                             <div class="about-pro">
                                 <ul class="mb-40">
-                                    <li>300 GSM Men’s Sweatshirts</li>
+                                    <li>280 GSM Men’s Sweatshirts</li>
   <li>Heavyweight Fabric – Ideal for Winter</li>
   <li>Premium Brand Finish</li>
   <li>Unisex Fit – Suitable for Both Men & Women</li>
   <li>Full Sleeve Sweatshirts for Everyday Comfort</li>
                                 </ul>
-                                <p>Proudly crafted by Heritage Appreals, trusted fleece Sweatshirt manufacturers from Ludhiana, India.</p>
+                                <p>Manufactured with care by Heritage Appreals — specialists in fleece sweatshirts from the heart of Ludhiana.</p>
                             </div>
                             <div class="pro-code pt-25">
                                 <ul>
-                                    <li>SKU: <span>FW5038948818</span></li>
+                                    <li>SKU: <span>FW51894881860</span></li>
                                     <li>Tag: <span>Sweatshirt</span></li>
                                 </ul>
                             </div>
@@ -142,12 +142,11 @@
                                 <div class="field">
                                     <label>Color:</label>
                                     <select name="select">
-                                        <option value="1">Blue</option>
-                                        <option value="2">Off White</option>
-                                        <option value="3">Brown</option>
-                                        <option value="4">GREY</option>
-                                        <option value="4">Black</option>
-
+                                        <option value="1">Pink</option>
+                                        <option value="2">Blue</option>
+                                        <option value="3">Black</option>
+                                        <option value="4">White</option>
+                                        <option value="5">Brown</option>
                                     </select>
                                 </div>
                             </form>
@@ -181,7 +180,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab11" data-toggle="tab" href="#contact11"
-                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(7)</a>
+                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(8)</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent1">
@@ -213,7 +212,7 @@
                                                         <li>Full Sleeves</li>
 
                                                         <li>GSM</li>
-                                                        <li>300</li>
+                                                        <li>280</li>
 
                                                         <li>Neck Type</li>
                                                         <li>Round Neck</li>
@@ -248,11 +247,11 @@
                                             <div class="col-md-12">
                                                 <div class="single-content mb-40">
                                                     <!-- <h5 class="title">Perfactly Done</h5> -->
-                                                    <p>Heritage Appreals, a leading garment manufacturer based in Ludhiana, Punjab, offers high-quality Fleece Plain Men’s Sweatshirts – ideal for wholesalers, retailers, exporters, and private label brands looking for bulk supply with consistent quality and timely delivery.
+                                                    <p>Stay warm and stylish this winter with the Fleece Plain Men’s Sweatshirt by Heritage Appreals, Ludhiana. Expertly made with soft fleece fabric, this sweatshirt is designed to deliver superior comfort and insulation, making it the perfect companion for chilly days.
 
-Crafted using premium fleece fabric, this men’s pullover sweatshirt is designed for warmth, comfort, and everyday use. With a plain, minimal design, it serves as the perfect base for custom printing, embroidery, and branding. The GSM of 300+ ensures a thick and durable texture, suitable for cold weather and versatile for both casual and workwear markets. All fabric options are Made in India under strict quality control to ensure consistency in bulk production.
+Featuring a classic round neck and full sleeves, it offers a snug yet breathable fit ideal for everyday wear. The plain pattern and multicolor options provide versatility to suit various personal styles and preferences, whether you prefer bold tones or subtle shades. The medium size offers a tailored fit for a modern silhouette without compromising on mobility or comfort.
 
-At Heritage Appreals, we support B2B clients with custom size, color, GSM, and packaging options. Whether you're sourcing for an e-commerce brand, corporate uniform project, retail store, or export market, our production team ensures a seamless experience from design to delivery.</div>
+Manufactured with attention to detail by Heritage Appreals, this piece blends functionality with timeless simplicity, making it an ideal choice for casual outings, work-from-home days, or layering under jackets during colder months. Built to last and easy to care for, it’s a reliable staple for any man’s winter wardrobe.</div>
                                             </div>
                                             <!-- <div class="col-md-6">
                                                 <div class="single-content mb-40">
@@ -284,41 +283,52 @@ At Heritage Appreals, we support B2B clients with custom size, color, GSM, and p
                                     aria-labelledby="contact-tab11">
                                     <div class="desc-content mt-60">
                                         <div class="row">
-                                            <div class="col-md-12">
-                                                <div class="single-content mb-40">
+                                            <div class="col-md-12">                                               
     <div class="single-content mb-40">
-    <h5 class="title">Pooja Rathore</h5>
-    <p>The quality of fabric and attention to detail in stitching is what keeps us coming back to Heritage Appreals.</p>
+    <h5 class="title">Kabir Dhamija</h5>
+    <p>Very professional quality. We’ve used them for employee winter kits — great feedback from all teams.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Manav Thakur</h5>
-    <p>Great experience working with Heritage Appreals. Their sweatshirts are durable, stylish, and delivered on time.</p>
+    <h5 class="title">Saanvi Grewal</h5>
+    <p>Affordable yet premium — looks high-end, but the pricing fits bulk orders well.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Sneha Kapoor</h5>
-    <p>We tried multiple vendors before, but the fit and finish from Heritage Appreals truly stands out.</p>
+    <h5 class="title">Reyansh Maan</h5>
+    <p>Fabric breathes well. Our clients wore these for long shifts and stayed comfortable.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Varun Khanna</h5>
-    <p>The consistency in quality and prompt response to queries makes them our top apparel supplier.</p>
-</div>
-<div class="single-content mb-40">
-    <h5 class="title">Anjali Deshmukh</h5>
-    <p>The team was helpful throughout the process. We were impressed with the bulk order execution and professionalism.</p>
+    <h5 class="title">Meher Lally</h5>
+    <p>Absolutely no color bleeding, even with darker tones like navy and maroon. Excellent dye quality.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Siddharth Jain</h5>
-    <p>Heritage Appreals has helped us maintain product standards for our clothing brand. Highly dependable team!</p>
+    <h5 class="title">Yug Bhatti</h5>
+    <p>Sizes are consistent across batches. We've never had to deal with fit issues.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Tanvi Rawal</h5>
-    <p>The colors, sizes, and overall quality were exactly as promised. Happy to continue our business relationship with them.</p>
+    <h5 class="title">Tia Poonia</h5>
+    <p>Perfect blank sweatshirt for custom artwork — takes prints really well and feels durable.</p>
 </div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Dev Bajaj</h5>
+    <p>The texture feels smooth to touch but strong enough for everyday workwear.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Avni Sidana</h5>
+    <p>Multiple customers said it’s the “most comfortable basic sweatshirt” they’ve owned. That’s a win!</p>
+</div>
+
+
+
+
+
+
 
                                             </div>
                                         </div>

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Men’s Green Pullover Hoodie – Bulk Wholesale Supply | Heritage Appreals</title>
-    <meta name="description" content="Stylish green pullover hoodies for men. Perfect for retail buyers, bulk corporate apparel, and export distribution.">
+    <title> Green Men Pullover Hoodie Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Green Men Pullover Hoodie Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Cotton Men’s Hoodie – Bulk Wholesale Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Comfortable and durable cotton hoodies for men. Designed for bulk distribution, retail supply, and corporate branding projects.">
+    <title> Cotton Men Hoodie Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Cotton Men Hoodie Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">

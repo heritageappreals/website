@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Cotton Men’s Winter Hoodies – Bulk Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Warm cotton hoodies designed for winter wear. Available for wholesale supply to retailers, corporate clients, and export distributors.">
+    <title> Cotton Mens Hoodies For Winter Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Cotton Mens Hoodies For Winter Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
