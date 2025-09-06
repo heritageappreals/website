@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title> Plain Navy Blue Men’s Full Sleeves Hoodie – Wholesale Supplier | Heritage Appreals</title>
-    <meta name="description" content="Elegant plain navy blue full-sleeve hoodies for men. Perfect for winter collections, corporate uniforms, and bulk wholesale distribution.">
+    <meta name="description" content="Elegant plain navy blue full-sleeve hoodies for men. Perfect for winter collections, corporate uniforms, and bulk wholesale distribution. We are The best Supplier Pan India">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
