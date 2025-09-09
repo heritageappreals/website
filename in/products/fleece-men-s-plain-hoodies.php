@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Cotton Fleece Sweatshirts Manufacturer | Heritage Appreals</title>
-    <meta name="description" content="Best Cotton Fleece Sweatshirts Manufacturer | Get ">
+    <title> Fleece Men's Plain Hoodies Manufacturer | Heritage Appreals</title>
+    <meta name="description" content="Best Fleece Men's Plain Hoodies Manufacturer | Get ">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
@@ -39,8 +39,8 @@
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
                                     <li class="breadcrumb-item"><a href="index-2.html">Winter Collection</a></li>
-                                    <li class="breadcrumb-item"><a href="index-2.html">Sweatshirt</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Cotton Fleece Sweatshirts
+                                    <li class="breadcrumb-item"><a href="index-2.html">Hoodies</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page"> Fleece Men's Plain Hoodies
                                     </li>
                                 </ol>
                             </nav>
@@ -55,15 +55,15 @@
                                     aria-labelledby="home-tab5">
                                     
                                     
-                                    <img src="img/productimages/sky-swt-shirt-2-1000x1000.webp"
+                                    <img src="img/productimages/men-s-plain-hoodies-1000x1000.webp"
                                         class="img-fluid" alt=""></div>
 
                                 <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile-tab5">
-                                    <img src="img/productimages/sky-swt-shirt-2-1000x1000.webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/men-s-plain-hoodies-1000x1000.webp" class="img-fluid" alt="">
                                 </div>
 
                                 <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact-tab5">
-                                    <img src="img/productimages/sky-swt-shirt-2-1000x1000.webp" class="img-fluid" alt="">
+                                    <img src="img/productimages/men-s-plain-hoodies-1000x1000.webp" class="img-fluid" alt="">
                                 </div>
                             </div>
 
@@ -75,19 +75,19 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/productimages/sky-swt-shirt-2-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/men-s-plain-hoodies-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="profile-tab5" data-toggle="tab" href="#profile5" role="tab"
                                         aria-controls="profile5" aria-selected="false">
-                                        <img src="img/productimages/sky-swt-shirt-2-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/men-s-plain-hoodies-1000x1000.webp" class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact5" role="tab"
                                         aria-controls="contact5" aria-selected="false">
-                                        <img src="img/productimages/sky-swt-shirt-2-1000x1000.webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/men-s-plain-hoodies-1000x1000.webp" class="img-fluid" alt=""style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                             </ul>
@@ -95,33 +95,33 @@
                     </div>
                     <div class="col-lg-4 col-md-12 order-3 order-lg-2">
                         <div class="pro-content">
-                            <span>Sweatshirt</span>
-                            <h5 class="title">Cotton Fleece Sweatshirts</h5>
+                            <span>Hoodies</span>
+                            <h5 class="title"> Fleece Men's Plain Hoodies</h5>
                             <div class="pro-rating pb-40">
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
-                                <a href="#" class="review">(12 customer reviews)</a>
+                                <a href="#" class="review">(20 customer reviews)</a>
                             </div>
                             <div class="pro-social mb-45">
                                 <a href="#"><img src="img/payment/pro-details-social.jpg" class="img-fluid" alt=""></a>
                             </div>
                             <div class="about-pro">
                                 <ul class="mb-40">
-                                    <li>280 GSM Men’s Sweatshirts</li>
-  <li>Heavyweight Fabric – Ideal for Winter</li>
-  <li>Premium Brand Finish</li>
-  <li>Unisex Fit – Suitable for Both Men & Women</li>
-  <li>Full Sleeve Sweatshirts for Everyday Comfort</li>
+                                    <li>Premium 280 GSM Cotton Fleece for Warmth & Comfort</li>
+                                    <li>Ideal for Winter – Breathable and Insulated</li>
+                                    <li>Precision Stitching with Brand-Grade Finish</li>
+                                    <li>Unisex Regular Fit – Perfect for Men & Women</li>
+                                    <li>Full sleeve Hoodies</li>
                                 </ul>
-                                <p>Manufactured with care by Heritage Appreals — specialists in fleece sweatshirts from the heart of Ludhiana.</p>
+                                <p>Trusted by retailers across India, Heritage Appreals is your go-to source for premium Hoodies from Ludhiana.</p>
                             </div>
                             <div class="pro-code pt-25">
                                 <ul>
-                                    <li>SKU: <span>FW51894881875</span></li>
-                                    <li>Tag: <span>Sweatshirt</span></li>
+                                    <li>SKU: <span>FW197518948818</span></li>
+                                    <li>Tag: <span>Hoodie</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -142,11 +142,12 @@
                                 <div class="field">
                                     <label>Color:</label>
                                     <select name="select">
-                                        <option value="1">Purple</option>
-                                        <option value="2">Black</option>
-                                        <option value="3">Blue</option>
+                                        <option value="1">GREY</option>
+                                        <option value="2">Maroon</option>
+                                        <option value="3">Green</option>
+                                        <option value="4">Black</option>
                                         <option value="4">White</option>
-                                        <option value="5">Brown</option>
+
                                     </select>
                                 </div>
                             </form>
@@ -180,7 +181,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab11" data-toggle="tab" href="#contact11"
-                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(12)</a>
+                                        role="tab" aria-controls="contact11" aria-selected="false">Reviews(20)</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="myTabContent1">
@@ -200,11 +201,6 @@
                                                         <li>Fleece
                                                         </li>
 
-                                                        <li>Style
-                                                        </li>
-                                                        <li>Pullover
-                                                        </li>
-
                                                         <li>Size</li>
                                                         <li>XL, XXL, LG, SM, MD</li>
 
@@ -214,8 +210,8 @@
                                                         <li>GSM</li>
                                                         <li>280</li>
 
-                                                        <li>Neck Type</li>
-                                                        <li>Round Neck</li>
+                                                        <li>No. of Pockets</li>
+                                                        <li>2</li>
 
                                                         <li>Gender</li>
                                                         <li>Men</li>
@@ -247,13 +243,15 @@
                                             <div class="col-md-12">
                                                 <div class="single-content mb-40">
                                                     <!-- <h5 class="title">Perfactly Done</h5> -->
-                                                    <p>Introducing the Cotton Fleece Sweatshirt in a timeless blue shade, thoughtfully designed and proudly manufactured by Heritage Appreals, Ludhiana. This sweatshirt blends classic aesthetics with dependable warmth, making it a staple for both men and women who appreciate comfort without compromising on style.
+                                                    <p>The Fleece Men’s Plain Pullover Hoodie is an essential winter garment designed for durability, warmth, and versatility—making it a top choice for B2B buyers across retail, uniforms, corporate gifting, and promotional campaigns. Manufactured by Heritage Appreals, a leading Ludhiana-based industry, this hoodie blends classic design with dependable functionality to meet the growing needs of businesses looking for high-quality apparel in bulk.
 
-Crafted from premium-quality cotton fleece, the fabric provides excellent insulation while maintaining breathability, making it perfect for moderate to chilly weather. The crew neck design combined with full sleeves ensures a snug fit that moves with you throughout the day. With a round neck collar and regular fit, this piece is tailored to suit a variety of body types while maintaining a clean and modern silhouette.
+Crafted from soft fleece fabric, this hoodie provides superior thermal insulation and comfort during cold seasons. Its plain design and pullover style make it a highly adaptable product that fits seamlessly into various wardrobe collections, whether casual, corporate, or branded merchandise.
 
-A standout feature of this sweatshirt is its two functional pockets, subtly integrated to enhance utility without affecting the minimalist design. Available in size Large, it is ideal for individuals who prefer a relaxed yet structured fit. The plain pattern and rich blue color make it easy to pair with jeans, joggers, or casual trousers for a laid-back, polished look.
+The hoodie features full sleeves, a regular fit, and ribbed cuffs and hem for enhanced warmth and shape retention. Its clean and minimalistic look is perfect for customization through embroidery, screen printing, or heat press—a significant advantage for brands and institutions looking to promote their identity or create uniform apparel.
 
-This sweatshirt is also machine washable, ensuring hassle-free care and long-lasting wear. Whether you're dressing for a day out or lounging at home, this cotton fleece sweatshirt offers the perfect mix of durability, softness, and everyday versatility—all from the trusted craftsmanship of Heritage Appreals, Ludhiana.</div>
+With machine-washable durability, the hoodie maintains its structure, softness, and color even after repeated washes. This results in high user satisfaction and reduced product returns, which is critical for business clients.
+
+Heritage Appreals offers complete OEM and ODM support, allowing clients to customize hoodie specifications according to brand needs. Whether it's the fleece GSM (commonly 280–350), size range (S to 2XL), labeling, color options, or packaging, every detail can be adjusted for a tailored bulk production experience.</div>
                                             </div>
                                             <!-- <div class="col-md-6">
                                                 <div class="single-content mb-40">
@@ -285,68 +283,106 @@ This sweatshirt is also machine washable, ensuring hassle-free care and long-las
                                     aria-labelledby="contact-tab11">
                                     <div class="desc-content mt-60">
                                         <div class="row">
-                                            <div class="col-md-12">                                               
-    <div class="single-content mb-40">
-    <h5 class="title">Kabir Dhaliwal</h5>
-    <p>Exceptional quality at this price point. Our customers felt they were getting a premium hoodie.</p>
+                                            <div class="col-md-12">
+ <div class="single-content mb-40">
+    <h5 class="title">Ira Bedi</h5>
+    <p>Our customers specifically ask for Heritage hoodies now—brand loyalty built purely on quality.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Saanvi Bedi</h5>
-    <p>The zip line stays flat even after weeks of usage. It looks clean and sharp when worn open.</p>
+    <h5 class="title">Krish Rajput</h5>
+    <p>They look just as good after 10 washes as they did brand new. That’s rare in this segment.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Reyansh Kaur</h5>
-    <p>We stocked multiple colors and every shade delivered well in terms of depth and consistency.</p>
+    <h5 class="title">Tia Sachdev</h5>
+    <p>Perfectly stitched, with no loose threads or color variation. Very happy with the consistency.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Meher Bhatti</h5>
-    <p>Ideal winterwear piece — warm, breathable, and doesn’t feel bulky. Great for layering.</p>
+    <h5 class="title">Devansh Arora</h5>
+    <p>We used these in a branding campaign. Everyone who received them loved the fit and feel.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Yug Randhawa</h5>
-    <p>Looks trendy with jeans, joggers, or cargos. Customers loved its styling flexibility.</p>
+    <h5 class="title">Kiara Bansal</h5>
+    <p>They hold their shape beautifully. No sagging at the neck or sleeves even after daily wear.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Tia Lally</h5>
-    <p>Zip hoodies like these make merchandising easy — they display well and sell fast.</p>
+    <h5 class="title">Reyansh Oberoi</h5>
+    <p>They offer warmth without being too bulky. Great for city winters and light layering.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Dev Grewal</h5>
-    <p>The zippers are solid and the hoodie holds shape over time. We’ve reordered thrice already.</p>
+    <h5 class="title">Aanya Gulati</h5>
+    <p>We sell these at college pop-ups and they fly off the racks. Very popular with students.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Avni Malhi</h5>
-    <p>Soft enough for comfort, firm enough for structure — these hit the sweet spot perfectly.</p>
+    <h5 class="title">Shaurya Mehta</h5>
+    <p>The detailing around the pockets and zipper is very neat. Looks high-end in person.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Shaurya Brar</h5>
-    <p>We were impressed by the packaging. Not a single piece had a fold mark or loose thread.</p>
+    <h5 class="title">Avni Nair</h5>
+    <p>They fold and store well for offline retail. We save space without compromising on display appeal.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Inaaya Toor</h5>
-    <p>These zip hoodies helped us boost our winter collection margins — top-rated by customers.</p>
+    <h5 class="title">Yuvraj Bhalla</h5>
+    <p>Soft on the inside, structured outside. Our repeat customers always reorder a different color.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Aarav Nijjar</h5>
-    <p>Love the balance of comfort and street style. Very popular with our younger audience.</p>
+    <h5 class="title">Sana Kapoor</h5>
+    <p>These hoodies are our top-selling item during festive and winter promotions. Always a safe bet.</p>
 </div>
 
 <div class="single-content mb-40">
-    <h5 class="title">Meher Sekhon</h5>
-    <p>Full marks for color fastness, stitching strength, and zip finish. Excellent product.</p>
+    <h5 class="title">Kabir Rathi</h5>
+    <p>They complement our joggers and tees perfectly. Great for creating full look sets in our store.</p>
 </div>
 
+<div class="single-content mb-40">
+    <h5 class="title">Myra Duggal</h5>
+    <p>Good hood depth, which many buyers notice. It doesn't flop or fall awkwardly when worn.</p>
+</div>
 
+<div class="single-content mb-40">
+    <h5 class="title">Ritvik Wadhwa</h5>
+    <p>Fast production, smooth delivery, and zero rejects. Heritage Appreals is our go-to for hoodies.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Aadhya Joshi</h5>
+    <p>We included these in gift hampers for clients—looked classy and received great feedback.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Krish Malhotra</h5>
+    <p>The hoodies feel luxurious without the luxury price. Definitely premium-grade basics.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Inaaya Kapoor</h5>
+    <p>Stocked them for a youth expo and we ran out in the first two days. Can’t wait to reorder.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Riaan Sethi</h5>
+    <p>Stays wrinkle-free and display-ready. That makes it perfect for our shopfront racks.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Tanishq Gill</h5>
+    <p>Our warehouse team found them easy to unpack, sort, and shelve—excellent packaging system.</p>
+</div>
+
+<div class="single-content mb-40">
+    <h5 class="title">Meher Chawla</h5>
+    <p>We paired these with caps and made winter kits. Customers called it their best buy of the season!</p>
+</div>
 
 
 
