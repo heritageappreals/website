@@ -54,7 +54,7 @@
                                     <div class="product__thumb">
                                         <a href="https://heritageappreals.com/in/products/3-thread-cotton-fleece-hoodies-for-men-350-plus-gsm.php" class="img-wrapper">
                                             <img class="img" src="https://heritageappreals.com/in/products/img/productimages/WhatsApp%20Image%202025-09-06%20at%2021.42.16%20(1).jpeg" alt="">
-                                            <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/WhatsApp%20Image%202025-09-06%20at%2021.42.16%20(1).jpegs" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/WhatsApp%20Image%202025-09-06%20at%2021.42.16%20(1).jpeg" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-25%</span>
