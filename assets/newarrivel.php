@@ -52,17 +52,16 @@
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="https://heritageappreals.com/img/newarival/2.png" alt="">
-                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/2.png" alt="">
+                                        <a href="https://heritageappreals.com/in/products/3-thread-cotton-fleece-hoodies-for-men-350-plus-gsm.php" class="img-wrapper">
+                                            <img class="img" src="https://heritageappreals.com/in/products/img/productimages/WhatsApp%20Image%202025-09-06%20at%2021.42.16%20(1).jpeg" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/WhatsApp%20Image%202025-09-06%20at%2021.42.16%20(1).jpegs" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-25%</span>
                                     </div>
                                     <div class="product__content--top">
                                         <span class="cate-name">Jovail</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
-                                                Degree</a></h6>
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="https://heritageappreals.com/in/products/3-thread-cotton-fleece-hoodies-for-men-350-plus-gsm.php">3 Thread Cotton Fleece 390+ GSM Hoodi</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
                                         <div class="rating">
