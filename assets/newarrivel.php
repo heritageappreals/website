@@ -10,7 +10,7 @@
                </div>
                 <div class="container">
                     <div class="row product__active-three product-h-three">
-                        <div class="col-xl-4">
+                        <!-- <div class="col-xl-4">
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
@@ -47,7 +47,7 @@
                                     <a href="#"><span class="lnr lnr-sync"></span></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-xl-4">
                             <div class="product__single">
                                 <div class="product__box product-margin">
