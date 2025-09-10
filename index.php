@@ -152,10 +152,7 @@
 
 
 
-            <!-- Product  -->
-            <!-- <?php include 'assets/besttrending.php';?> -->
-            <!-- Product end -->
-
+        
 
 
             <!-- Collection time area start -->
@@ -184,9 +181,7 @@
             <!-- Brand End -->
 
 
-            <!-- Discover All Product  -->
-        <!-- <?php include 'assets/discover.php';?> -->
-            <!-- Discover All Product end -->
+   
 
             
 
