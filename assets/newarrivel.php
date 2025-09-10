@@ -21,7 +21,7 @@
                                         <span class="sale">SALE</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">Jovail</span>
+                                        <span class="cate-name">Brand</span>
                                         <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="https://heritageappreals.com/in/products/anti-pilling-zipper-jacket.php">Anti Pilling Fabric Zipper Sweatshirt</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
@@ -86,7 +86,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4">
+                        <!-- <div class="col-xl-4">
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
@@ -280,7 +280,7 @@
                                     <a href="#"><span class="lnr lnr-sync"></span></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
