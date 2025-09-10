@@ -10,19 +10,19 @@
                </div>
                 <div class="container">
                     <div class="row product__active-three product-h-three">
-                        <!-- <div class="col-xl-4">
+                        <div class="col-xl-4">
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="product-details.html" class="img-wrapper">
-                                            <img class="img" src="https://heritageappreals.com/img/newarival/1.png" alt="">
+                                        <a href="https://heritageappreals.com/in/products/anti-pilling-zipper-jacket.php" class="img-wrapper">
+                                            <img class="img" src="https://heritageappreals.com/in/products/img/productimages/antiogggs.jpeg" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
                                     </div>
                                     <div class="product__content--top">
                                         <span class="cate-name">Jovail</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Polo Man T-Shirt</a></h6>
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="https://heritageappreals.com/in/products/anti-pilling-zipper-jacket.php">Anti Pilling Fabric Zipper Sweatshirt</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
                                         <div class="rating">
@@ -47,7 +47,7 @@
                                     <a href="#"><span class="lnr lnr-sync"></span></a>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                         <div class="col-xl-4">
                             <div class="product__single">
                                 <div class="product__box product-margin">
