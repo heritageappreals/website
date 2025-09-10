@@ -86,11 +86,11 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-xl-4">
+                        <div class="col-xl-4">
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="product-details.html" class="img-wrapper">
+                                        <a href="winter.php" class="img-wrapper">
                                             <img class="img" src="https://heritageappreals.com/img/newarival/3.png" alt="">
                                             <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/3.png" alt="">
                                         </a>
@@ -99,7 +99,7 @@
                                     </div>
                                     <div class="product__content--top">
                                         <span class="cate-name">Kudos</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="winter.php">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
@@ -129,7 +129,7 @@
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="product-details.html" class="img-wrapper">
+                                        <a href="winter.php" class="img-wrapper">
                                             <img class="img" src="https://heritageappreals.com/img/newarival/4.png" alt="">
                                             <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/4.png" alt="">
                                         </a>
@@ -138,7 +138,7 @@
                                     </div>
                                     <div class="product__content--top">
                                         <span class="cate-name">Kingslay</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="winter.php">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
@@ -168,7 +168,7 @@
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="product-details.html" class="img-wrapper">
+                                        <a href="winter.php" class="img-wrapper">
                                             <img class="img" src="https://heritageappreals.com/img/newarival/5.png" alt="">
                                             <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/5.png" alt="">
                                         </a>
@@ -177,7 +177,7 @@
                                     </div>
                                     <div class="product__content--top">
                                         <span class="cate-name">Heritage</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="winter.php">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
@@ -207,7 +207,7 @@
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="product-details.html" class="img-wrapper">
+                                        <a href="winter.php" class="img-wrapper">
                                             <img class="img" src="https://heritageappreals.com/img/newarival/6.png" alt="">
                                             <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/6.png" alt="">
                                         </a>
@@ -216,7 +216,7 @@
                                     </div>
                                     <div class="product__content--top">
                                         <span class="cate-name">Heritage</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="winter.php">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
@@ -246,7 +246,7 @@
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="product-details.html" class="img-wrapper">
+                                        <a href="winter.php" class="img-wrapper">
                                             <img class="img" src="https://heritageappreals.com/img/newarival/7.png" alt="">
                                             <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/7.png" alt="">
                                         </a>
@@ -255,7 +255,7 @@
                                     </div>
                                     <div class="product__content--top">
                                         <span class="cate-name">Heritage</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="product-details.html">Wireless Audioing Systems Purple
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="winter.php">Wireless Audioing Systems Purple
                                                 Degree</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
@@ -280,7 +280,7 @@
                                     <a href="#"><span class="lnr lnr-sync"></span></a>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </section>
