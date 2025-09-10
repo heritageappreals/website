@@ -153,7 +153,7 @@
 
 
             <!-- Product  -->
-            <?php include 'assets/besttrending.php';?>
+            <!-- <?php include 'assets/besttrending.php';?> -->
             <!-- Product end -->
 
 
@@ -185,7 +185,7 @@
 
 
             <!-- Discover All Product  -->
-             <?php include 'assets/discover.php';?>
+        <!-- <?php include 'assets/discover.php';?> -->
             <!-- Discover All Product end -->
 
             
