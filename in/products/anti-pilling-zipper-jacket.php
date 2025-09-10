@@ -4,28 +4,24 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>3 Thread Cotton Fleece Hoodies For Men 390+ GSM - Heritage Apparels</title>
+    <title>Anti Pilling Fabric Zipper Sweatshirt - Heritage Apparels</title>
     <meta name="description"
-        content="Buy high-quality 3 Thread Cotton Fleece Hoodies for Men (390+ GSM) from Heritage Apparels. Perfect for bulk orders. Durable, comfortable, and stylish. Ideal for B2B businesses.">
+        content="Buy high-quality Anti Pilling Fabric Zipper Sweatshirt from Heritage Apparels. Durable, stylish, and perfect for bulk orders. Ideal for B2B businesses and winter apparel suppliers.">
     <meta name="keywords"
-        content="Cotton Fleece Hoodies, Men's Hoodies Wholesale, 390 GSM Hoodies, Bulk Cotton Hoodies, 3 Thread Fleece, Men's Winter Wear, Heritage Apparels Hoodies, B2B Hoodies Supplier, Wholesale Hoodies, Durable Cotton Hoodies">
+        content="Anti Pilling Sweatshirt, Zipper Sweatshirt Wholesale, Bulk Sweatshirts, Anti Pilling Fabric, Men's Zipper Sweatshirt, Heritage Apparels Sweatshirt, Wholesale Winter Wear, Durable Sweatshirts, B2B Sweatshirt Supplier">
     <meta name="robots" content="index, follow">
-    <link rel="canonical"
-        href="https://heritageappreals.com/in/products/3-thread-cotton-fleece-hoodies-for-men-390-gsm.php">
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
     <!-- Place favicon.ico in the root directory -->
-
-    <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Product",
-  "name": "3 Thread Cotton Fleece Hoodies For Men 390+ GSM",
-  "image": "https://heritageappreals.com/in/path-to-hoodie-image.jpg",
-  "description": "High-quality wholesale 3 Thread Cotton Fleece Hoodies for Men, perfect for B2B bulk orders. Durable and comfortable with 390+ GSM fabric.",
+  "name": "Anti Pilling Fabric Zipper Sweatshirt",
+  "image": "https://heritageappreals.com/in/path-to-zipper-sweatshirt-image.jpg",
+  "description": "Durable Anti Pilling Fabric Zipper Sweatshirt ideal for B2B bulk orders. Resistant to pilling, comfortable fit, and high-quality zipper functionality.",
   "brand": {
     "@type": "Brand",
     "name": "Heritage Apparels"
@@ -33,9 +29,9 @@
   "review": [
     {
       "@type": "Review",
-      "author": "Rajesh Kumar, Retail Business Owner",
-      "datePublished": "2025-08-15",
-      "reviewBody": "We ordered bulk 3 Thread Cotton Fleece Hoodies and were extremely satisfied with the quality and prompt delivery. The fabric is thick, soft, and durable. Our customers love it!",
+      "author": "Rahul Joshi, Retail Store Owner",
+      "datePublished": "2025-08-20",
+      "reviewBody": "Great quality Anti Pilling Zipper Sweatshirt. Perfect for winter inventory. Strong fabric and zipper work flawlessly. Customers love them!",
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": "5",
@@ -44,9 +40,9 @@
     },
     {
       "@type": "Review",
-      "author": "Anita Sharma, Gym Equipment Supplier",
-      "datePublished": "2025-08-10",
-      "reviewBody": "Excellent hoodies! Perfect for gym staff uniforms. The bulk order process was seamless, and the product quality is top-notch.",
+      "author": "Pooja Mehra, Corporate Uniform Supplier",
+      "datePublished": "2025-08-16",
+      "reviewBody": "We ordered bulk Anti Pilling Fabric Sweatshirts for corporate uniforms. Very satisfied with fabric durability and timely delivery. Strongly recommended.",
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": "5",
@@ -55,9 +51,9 @@
     },
     {
       "@type": "Review",
-      "author": "Vikram Singh, Corporate Gifting Expert",
-      "datePublished": "2025-08-08",
-      "reviewBody": "These hoodies are exactly what we needed for our corporate gifting solutions. Very comfortable and great fabric weight for winters. Highly recommended.",
+      "author": "Anil Verma, Wholesale Apparel Distributor",
+      "datePublished": "2025-08-12",
+      "reviewBody": "Reliable supplier of anti-pilling zipper sweatshirts. Excellent fabric quality with a sturdy zipper mechanism. Perfect for winter wear supply.",
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": "5",
@@ -66,20 +62,20 @@
     },
     {
       "@type": "Review",
-      "author": "Sonal Mehta, Wholesale Apparel Distributor",
+      "author": "Neha Kapoor, E-commerce Business Owner",
+      "datePublished": "2025-08-09",
+      "reviewBody": "The Anti Pilling Zipper Sweatshirt is ideal for our winter collection. No pilling even after multiple washes. Well-priced for bulk orders.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Sanjay Gupta, Sports Apparel Distributor",
       "datePublished": "2025-08-05",
-      "reviewBody": "Heritage Apparels delivered exactly as promised. The 390+ GSM quality provides a perfect winter layer. Our clients are very pleased.",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      }
-    },
-    {
-      "@type": "Review",
-      "author": "Manish Gupta, E-commerce Business Owner",
-      "datePublished": "2025-08-01",
-      "reviewBody": "I am impressed by the durability and comfort of the 3 Thread Cotton Fleece Hoodies. Perfect for our winter collection. Bulk order arrived on time.",
+      "reviewBody": "High-quality anti-pilling fabric sweatshirt with strong zipper, perfect for gym staff uniforms. Happy with our bulk order from Heritage Apparels.",
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": "5",
@@ -89,6 +85,7 @@
   ]
 }
 </script>
+
 
     <!-- CSS here -->
     <link rel="stylesheet" href="css/meanmenu.css">
@@ -118,9 +115,11 @@
                                     <li class="breadcrumb-item"><a href="https://heritageappreals.com/">Home</a></li>
                                     <li class="breadcrumb-item"><a href="https://heritageappreals.com/winter.php">Winter
                                             Collection</a></li>
-                                    <li class="breadcrumb-item"><a href="https://heritageappreals.com/">Hoodies</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">3 Thread Cotton Fleece
-                                        Hoodies For Men 390+ GSM – Bulk Wholesale Supplier
+                                    <li class="breadcrumb-item"><a href="https://heritageappreals.com/">Sweatshirt</a>
+                                    </li>
+                                    <li class="breadcrumb-item active" aria-current="page">Anti Pilling Fabric Zipper
+                                        Sweatshirt
+
                                     </li>
                                 </ol>
                             </nav>
@@ -135,23 +134,18 @@
                                     aria-labelledby="home-tab5">
 
 
-                                    <img src="img/productimages/WhatsApp Image 2025-09-06 at 21.42.16 (1).jpeg"
-                                        class="img-fluid" alt="">
+                                    <img src="img/productimages/antiogggs.jpeg" class="img-fluid" alt="">
                                 </div>
 
                                 <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile-tab5">
-                                    <img src="img/productimages/WhatsApp Image 2025-09-09 at 10.34.12.jpeg"
-                                        class="img-fluid" alt="">
+                                    <img src="img/productimages/antiphillinh.jpeg" class="img-fluid" alt="">
                                 </div>
 
                                 <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact-tab5">
-                                    <img src="img/productimages/WhatsApp Image 2025-09-09 at 10.34.13 (1).jpeg"
+                                    <img src="img/productimages/WhatsApp Image 2025-09-10 at 12.20.25 PM (1).jpeg"
                                         class="img-fluid" alt="">
                                 </div>
-                                <div class="tab-pane fade" id="contact6" role="tabpanel" aria-labelledby="contact-tab5">
-                                    <img src="img/productimages/WhatsApp Image 2025-09-09 at 10.34.13.jpeg"
-                                        class="img-fluid" alt="">
-                                </div>
+
                             </div>
 
 
@@ -162,39 +156,33 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/productimages/WhatsApp Image 2025-09-06 at 21.42.16 (1).jpeg"
-                                            class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/antiogggs.jpeg" class="img-fluid" alt=""
+                                            style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="profile-tab5" data-toggle="tab" href="#profile5" role="tab"
                                         aria-controls="profile5" aria-selected="false">
-                                        <img src="img/productimages/WhatsApp Image 2025-09-09 at 10.34.12.jpeg"
-                                            class="img-fluid" alt="" style="width: 110px; height: 110px;">
+                                        <img src="img/productimages/antiphillinh.jpeg" class="img-fluid" alt=""
+                                            style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact5" role="tab"
                                         aria-controls="contact5" aria-selected="false">
-                                        <img src="img/productimages/WhatsApp Image 2025-09-09 at 10.34.13 (1).jpeg"
+                                        <img src="img/productimages/WhatsApp Image 2025-09-10 at 12.20.25 PM (1).jpeg"
                                             class="img-fluid" alt="" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" id="contact-tab5" data-toggle="tab" href="#contact6" role="tab"
-                                        aria-controls="contact6" aria-selected="false">
-                                        <img src="img/productimages/WhatsApp Image 2025-09-09 at 10.34.13.jpeg"
-                                            class="img-fluid" alt="" style="width: 110px; height: 110px;">
-                                    </a>
-                                </li>
+
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12 order-3 order-lg-2">
                         <div class="pro-content">
-                            <span>Hoodies</span>
-                            <h1 class="title">3 Thread Cotton Fleece
-                                Hoodies For Men 390+ GSM</h1>
+                            <span>Zipper Sweatshirt</span>
+                            <h1 class="title">Anti Pilling Fabric Zipper Sweatshirt – Durable Bulk Supply for Businesses
+                            </h1>
                             <div class="pro-rating pb-40">
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
                                 <a href="#" class="active"><i class="fas fa-star"></i></a>
@@ -208,11 +196,15 @@
                             </div>
                             <div class="about-pro">
                                 <ul class="mb-40">
-                                    <li>Premium 390+ GSM Cotton Fleece for Warmth & Comfort</li>
+                                    <li>Anti Philling Chinese Important Fabric</li>
                                     <li>Ideal for Winter – Breathable and Insulated</li>
                                     <li>Precision Stitching with Brand-Grade Finish</li>
                                     <li>Unisex Regular Fit – Perfect for Men & Women</li>
+                                    <li>Premium Anti Pilling Fabric for Long-Term Durability</li>
                                     <li>Full sleeve Hoodies</li>
+                                    <li>Functional Zipper Design
+                                    </li>
+                                    <li>Versatile Style & Fit</li>
                                 </ul>
                                 <p>Proudly crafted by Heritage Appreals, trusted fleece hoodie manufacturers from
                                     Ludhiana, India.</p>
@@ -220,7 +212,7 @@
                             <div class="pro-code pt-25">
                                 <ul>
                                     <li>SKU: <span>FW518948818</span></li>
-                                    <li>Tag: <span>Hoodie</span></li>
+                                    <li>Tag: <span>Zipper</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -295,28 +287,27 @@
                                                     <ul>
                                                         <li class="title">Additional information</li>
 
-                                                        <li>Pattern</li>
-                                                        <li>Plain</li>
+
 
                                                         <li>Fabric
                                                         </li>
-                                                        <li>Fleece
+                                                        <li>Anti Philling
                                                         </li>
 
                                                         <li>Size</li>
-                                                        <li>S, M, L, XL, XXL</li>
+                                                        <li>M, L, XL</li>
 
                                                         <li>Sleeve Length</li>
                                                         <li>Full Sleeves</li>
 
-                                                        <li>GSM</li>
-                                                        <li>390+</li>
+                                                        <li>Type</li>
+                                                        <li>Zipper</li>
 
                                                         <li>Pockets</li>
-                                                        <li>kangaroo</li>
+                                                        <li>Side</li>
 
                                                         <li>Gender</li>
-                                                        <li>Men</li>
+                                                        <li>Unisex</li>
 
                                                         <li>Wash Care
                                                         </li>
@@ -345,41 +336,36 @@
                                             <div class="col-md-12">
                                                 <div class="single-content mb-40">
                                                     <!-- <h5 class="title">Perfactly Done</h5> -->
-                                                    <p>Looking for the perfect blend of comfort, durability, and style?
-                                                        Heritage Apparels brings you premium 3 Thread Cotton Fleece
-                                                        Hoodies for Men (390+ GSM), engineered for unmatched quality and
-                                                        comfort. Ideal for both retail and B2B orders, our hoodies are
-                                                        designed to deliver the perfect fit, keeping your customers warm
-                                                        and satisfied. <br>
-                                                    <h2>Premium Material: Cotton Fleece with 390+ GSM Weight</h2>
+                                                    <p>Heritage Apparels introduces the ultimate combination of
+                                                        functionality, style, and durability – our premium Anti Pilling
+                                                        Fabric Zipper Sweatshirt, specially designed to meet your
+                                                        wholesale and B2B needs. Whether you're running a retail
+                                                        business, providing corporate uniforms, or supplying winter
+                                                        apparel in bulk, our anti-pilling zipper sweatshirt is the
+                                                        perfect choice for comfort, long-lasting wear, and style. <br>
+                                                    <h2>Premium Anti Pilling Fabric for Long-Term Durability</h2>
 
-                                                    Our hoodies are crafted from high-grade 3 Thread Cotton Fleece,
-                                                    known for its softness, durability, and breathability. With a
-                                                    fabric weight of 390+ GSM (grams per square meter), these
-                                                    hoodies are built to provide superior warmth without being
-                                                    overly bulky. The thick fabric makes them perfect for colder
-                                                    climates, offering resistance against wear and tear. Whether
-                                                    you're supplying winter essentials for a corporate uniform or
-                                                    retailing fashion-forward casual wear, these hoodies serve every
-                                                    purpose. <br>
-                                                    Stylish Design for All Occasions
+                                                    Our Anti Pilling Fabric Zipper Sweatshirt is crafted from
+                                                    high-quality materials designed to resist pilling and maintain a
+                                                    fresh look even after repeated washes. This makes it a perfect
+                                                    solution for businesses needing reliable garments that withstand
+                                                    daily wear in both casual and professional environments. The fabric
+                                                    offers a smooth surface, preventing the annoying appearance of
+                                                    fabric balls over time. <br>
+                                                    <h3>Functional Zipper Design</h3>
 
-                                                    Designed with a modern aesthetic, the 3 Thread Cotton Fleece
-                                                    Hoodies offer a clean, minimalistic look suitable for everyday
-                                                    wear. The solid colors and premium stitching ensure your
-                                                    customers look good while feeling great. The adjustable
-                                                    drawstrings and front kangaroo pocket add functional appeal.
-                                                    These hoodies are available in a variety of sizes to cater to a
-                                                    wide demographic. <br>
-                                                    <h3>Why Choose Heritage Apparels for Your B2B
-                                                        Needs?</h3>
-
-                                                    Heritage Apparels is a trusted name in textile manufacturing,
-                                                    specializing in bulk orders. Our 3 Thread Cotton Fleece Hoodies
-                                                    are manufactured under strict quality control standards,
-                                                    ensuring uniformity in every piece. With a strong emphasis on
-                                                    sustainable practices and long-lasting materials, we are your
-                                                    reliable B2B partner for wholesale men's hoodies.<br>
+                                                    Featuring a sturdy full-front zipper, this sweatshirt allows for
+                                                    easy wear and removal. The zipper is built to last, resisting rust
+                                                    and wear. Its thoughtful design combines practicality with style,
+                                                    making it suitable for both individual retail customers and bulk B2B
+                                                    orders such as work uniforms or promotional merchandise.<br>
+                                                    <h3>Versatile Style & Fit</h3>
+                                                    This Anti Pilling Zipper Sweatshirt comes in a variety of colors and
+                                                    sizes, ensuring it fits all kinds of businesses and customer
+                                                    preferences. With a contemporary cut, elastic cuffs, and a
+                                                    comfortable fit, the sweatshirt serves as an ideal choice for winter
+                                                    wear suppliers, gym and sports apparel businesses, and corporate
+                                                    uniform providers.
                                                     <h4>Ideal For Multiple Use-Cases</h4>
                                                     <ul>
 
@@ -405,25 +391,26 @@
 
                                                         <li> Flexible MOQ (Minimum Order Quantity)</li>
                                                     </ul>
-                                                    <h4>Sustainable and Eco-Friendly Manufacturing</h4>
+                                                    <h4>Eco-Friendly Manufacturing Process</h4>
 
-                                                    We prioritize environmentally responsible manufacturing
-                                                    practices. Our 3 Thread Cotton Fleece Hoodies use low-impact
-                                                    dyes and processes to minimize carbon footprint, appealing to
-                                                    eco-conscious businesses. <br>
+                                                    Heritage Apparels values sustainable manufacturing practices. The
+                                                    Anti Pilling Fabric Zipper Sweatshirt uses low-impact dyes and
+                                                    responsible textile processes that minimize environmental harm,
+                                                    ensuring you provide eco-conscious products to your clients. <br>
 
-                                                    Our Men's Cotton Fleece Hoodies are perfect for your business needs.
-                                                    With bulk cotton hoodies available in various sizes and colors,
-                                                    these garments offer a comfortable and durable solution for every
-                                                    winter wear supplier. Designed specifically for wholesale purposes,
-                                                    these 3 Thread Fleece Hoodies provide exceptional quality that your
-                                                    customers will appreciate.
+                                                    Our Anti Pilling Zipper Sweatshirt is a top choice for wholesale
+                                                    men's zipper sweatshirts and bulk anti pilling fabric sweatshirts.
+                                                    It offers long-lasting durability and a premium look, ideal for any
+                                                    business dealing in wholesale winter wear or anti pilling
+                                                    sweatshirts. Heritage Apparels provides reliable and affordable
+                                                    solutions for all your B2B sweatshirt supplier needs.
 
-                                                    Fast Delivery & Customer Support
-
-                                                    We offer fast and reliable shipping to ensure your bulk orders reach
-                                                    you on time. Our customer support team is always ready to help you
-                                                    with any inquiry or customization requests.
+                                                    <h4>Fast Delivery & Excellent Customer Support</h4>
+                                                    We guarantee fast and secure delivery for bulk orders, along with
+                                                    expert customer support to guide you through every step of the
+                                                    process. Whether you're sourcing for a retail chain, corporate
+                                                    gifting, or promotional events, our Anti Pilling Fabric Zipper
+                                                    Sweatshirt is a dependable solution.
                                                     </p>
 
 
@@ -462,25 +449,34 @@
                                             <div class="col-md-12">
                                                 <div class="single-content mb-40">
                                                     <h5 class="title">ajesh Kumar, Retail Business Owner</h5>
-                                                    <p>We ordered bulk 3 Thread Cotton Fleece Hoodies and were extremely satisfied with the quality and prompt delivery. The fabric is thick, soft, and durable. Our customers love it!</p>
+                                                    <p>We ordered bulk 3 Thread Cotton Fleece Hoodies and were extremely
+                                                        satisfied with the quality and prompt delivery. The fabric is
+                                                        thick, soft, and durable. Our customers love it!</p>
                                                 </div>
                                                 <div class="single-content mb-40">
                                                     <h5 class="title">Anita Sharma, Gym Equipment Supplier</h5>
-                                                    <p>Excellent hoodies! Perfect for gym staff uniforms. The bulk order process was seamless, and the product quality is top-notch.</p>
+                                                    <p>Excellent hoodies! Perfect for gym staff uniforms. The bulk order
+                                                        process was seamless, and the product quality is top-notch.</p>
                                                 </div>
                                                 <div class="single-content mb-40">
                                                     <h5 class="title">Vikram Singh, Corporate Gifting Expert</h5>
-                                                    <p>These hoodies are exactly what we needed for our corporate gifting solutions. Very comfortable and great fabric weight for winters. Highly recommended..</p>
+                                                    <p>These hoodies are exactly what we needed for our corporate
+                                                        gifting solutions. Very comfortable and great fabric weight for
+                                                        winters. Highly recommended..</p>
                                                 </div>
                                                 <div class="single-content mb-40">
                                                     <h5 class="title">Sonal Mehta, Wholesale Apparel Distributor</h5>
-                                                    <p>EHeritage Apparels delivered exactly as promised. The 350+ GSM quality provides a perfect winter layer. Our clients are very pleased.</p>
+                                                    <p>EHeritage Apparels delivered exactly as promised. The 350+ GSM
+                                                        quality provides a perfect winter layer. Our clients are very
+                                                        pleased.</p>
                                                 </div>
                                                 <div class="single-content mb-40">
                                                     <h5 class="title">Manish Gupta, E-commerce Business Owner</h5>
-                                                    <p>I am impressed by the durability and comfort of the 3 Thread Cotton Fleece Hoodies. Perfect for our winter collection. Bulk order arrived on time.</p>
+                                                    <p>I am impressed by the durability and comfort of the 3 Thread
+                                                        Cotton Fleece Hoodies. Perfect for our winter collection. Bulk
+                                                        order arrived on time.</p>
                                                 </div>
-                                                
+
 
                                             </div>
                                         </div>
