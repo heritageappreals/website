@@ -155,9 +155,9 @@
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="winter.php" class="img-wrapper">
-                                            <img class="img" src="https://heritageappreals.com/img/newarival/5.png" alt="">
-                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/5.png" alt="">
+                                        <a href="https://heritageappreals.com/in/products/poly-cotton-fleece-promotional-hoodies-manufacturer.php" class="img-wrapper">
+                                            <img class="img" src="https://heritageappreals.com/in/products/img/productimages/cotton-fleece-promotional-hoodies.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/cotton-fleece-promotional-hoodies.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">SALE</span>
