@@ -123,17 +123,16 @@
                             <div class="product__single">
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
-                                        <a href="winter.php" class="img-wrapper">
-                                            <img class="img" src="https://heritageappreals.com/img/newarival/4.png" alt="">
-                                            <img class="img secondary-img" src="https://heritageappreals.com/img/newarival/4.png" alt="">
+                                        <a href="https://heritageappreals.com/in/products/spun-fleece-promotional-hoodies-manufacturer.php" class="img-wrapper">
+                                            <img class="img" src="https://heritageappreals.com/in/products/img/productimages/cotton-fleece-promotional-hoodies.png" alt="">
+                                            <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/cotton-fleece-promotional-hoodies.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
                                         <span class="sale">-10%</span>
                                     </div>
                                     <div class="product__content--top">
-                                        <span class="cate-name">Kingslay</span>
-                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="winter.php">Wireless Audioing Systems Purple
-                                                Degree</a></h6>
+                                        <span class="cate-name">Kudos</span>
+                                        <h6 class="product__title mine__shaft-color f-700 mb-0"><a href="winter.php">Spun Fleece Promotional hoodies</a></h6>
                                     </div>
                                     <div class="product__content--rating d-flex justify-content-between">
                                         <div class="rating">
@@ -141,20 +140,14 @@
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
                                                 <li class="rating-active"><i class="fas fa-star"></i></li>
-                                                <li><i class="fas fa-star"></i></li>
-                                                <li><i class="fas fa-star"></i></li>
+                                                <li class="rating-active"><i class="fas fa-star"></i></li>
+                                                <li class="rating-active"><i class="fas fa-star"></i></li>
                                             </ul>
                                         </div>
                                         <div class="price">
                                             <h5 class="grenadier-color f-600">Connect us</h5>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="product-action">
-                                    <a href="#"><span class="lnr lnr-heart"></span></a>
-                                    <a href="#"><span class="lnr lnr-eye"></span></a>
-                                    <a href="#"><span class="lnr lnr-cart"></span></a>
-                                    <a href="#"><span class="lnr lnr-sync"></span></a>
                                 </div>
                             </div>
                         </div>
