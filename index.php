@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Heritage Appreals - Best Clothing Factory in Ludhiana</title>
-        <meta name="description" content="We are the Best T-Shirt, Hoodies, Tracksuits, Payjama, Lower menufecturer in Ludhiana">
+        <meta name="description" content="We are the Best T-Shirt, Hoodies, Tracksuits, Payjama, Lower menufecturer in Ludhiana. Only for the brands menufecturings.">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
