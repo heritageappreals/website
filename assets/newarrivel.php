@@ -91,7 +91,7 @@
                                 <div class="product__box product-margin">
                                     <div class="product__thumb">
                                         <a href="https://heritageappreals.com/in/products/cotton-fleece-promotional-hoodies-manufacturer-multi-color-unisex.php" class="img-wrapper">
-                                            <img class="img" src="https://heritageappreals.com/img/newarival/3.png" alt="">
+                                            <img class="img" src="https://heritageappreals.com/in/products/img/productimages/cotton-fleece-promotional-hoodies.png" alt="">
                                             <img class="img secondary-img" src="https://heritageappreals.com/in/products/img/productimages/cotton-fleece-promotional-hoodies.png" alt="">
                                         </a>
                                         <span class="new">NEW</span>
