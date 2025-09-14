@@ -16,13 +16,15 @@
     <link rel="stylesheet" href="css/meanmenu.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <?php include 'assets/head.php';?>
+       <?php include '../../assets/head.php';?>
 </head>
 
 <body>
 
-    <?php include 'assets/body.php';?>
-    <?php include 'assets/header.php';?>
+ <?php include '../../assets/body.php';?>
+    <!-- Header -->
+    <?php include '../../assets/header.php';?>
+    <!-- Header end /-->
     <!-- Header end /-->
 <?php
 // Path to the products folder
@@ -53,9 +55,10 @@ foreach ($files as $file) {
 
 echo "</ul>";
 ?>
-   <!-- Footer -->
-    <?php include 'assets/footer.php';?>
+      <!-- Footer -->
+    <?php include '../../assets/footer.php';?>
     <!-- Footer End -->
+
 
 
 
