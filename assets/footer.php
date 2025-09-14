@@ -29,7 +29,7 @@
                                 <div class="footer-menu">
                                     <ul>
                                         <li><a href="https://heritageappreals.com/about.php">About Us</a></li>
-                                        <li><a href="#">Careers</a></li>
+                                        <li><a href="#">All Products</a></li>
                                         <li><a href="#">Press Releases</a></li>
                                         <li><a href="#">Cart Cares</a></li>
                                         <li><a href="#">Gift a Smile</a></li>
@@ -63,8 +63,8 @@
                                 </div>
                                 <div class="footer-menu h1foote-menu2">
                                     <ul>
-                                        <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Your Account</a></li>
-                                        <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Returns Centre</a></li>
+                                        <li><a href="https://heritageappreals.com/sitemap.php">Sitemap</a></li>
+                                        <li><a href="https://heritageappreals.com/in/products/allproducts.php">All Products</a></li>
                                         <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">100% Purchase Protection</a></li>
                                         <!-- <li><a href="#">Cartbit App Download</a></li> -->
                                         <li><a href="https://api.whatsapp.com/send/?phone=%2B919041054080&text&type=phone_number&app_absent=0">Help</a></li>
