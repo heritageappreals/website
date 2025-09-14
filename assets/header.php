@@ -122,73 +122,73 @@
                                     </li>
                                   
                                     <li class="mega-menu static dropdown-icon">
-                                        <a href="shop.html">Shop</a>
+                                        <a href="shop.php">Shop</a>
                                         <ul class="submenu mega-full">
                                             <li>
                                                 <a href="https://heritageappreals.com/winter.php">Winter Articals</a>
                                                 <ul class="submenu  level-1">
                                                     <li>
-                                                        <a href="shop.html">Furniture</a>
+                                                        <a href="shop.php">Hoodies</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Fasion</a>
+                                                        <a href="shop.php">jackets</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Bags</a>
+                                                        <a href="shop.php">Sweatshirt</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Lather</a>
+                                                        <a href="shop.php">Pullovers</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li>
-                                                <a href="shop.html">Category 02</a>
+                                                <a href="https://heritageappreals.com/summer.php">Summer Collection</a>
                                                 <ul class="submenu  level-1">
                                                     <li>
-                                                        <a href="shop.html">Electronics</a>
+                                                        <a href="https://heritageappreals.com/tshirts.php">T-Shirts</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Chair</a>
+                                                        <a href="shop.php">Chair</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Table</a>
+                                                        <a href="shop.php">Table</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Book</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="shop.html">Category 03</a>
-                                                <ul class="submenu">
-                                                    <li>
-                                                        <a href="shop.html">Clock</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="shop.html">Watch</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="shop.html">Mobile</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="shop.html">sunglass</a>
+                                                        <a href="shop.php">Book</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li>
-                                                <a href="shop.html">Category 04</a>
+                                                <a href="shop.php">Category 03</a>
                                                 <ul class="submenu">
                                                     <li>
-                                                        <a href="shop.html">Chair</a>
+                                                        <a href="shop.php">Clock</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Lather</a>
+                                                        <a href="shop.php">Watch</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Table</a>
+                                                        <a href="shop.php">Mobile</a>
                                                     </li>
                                                     <li>
-                                                        <a href="shop.html">Clock</a>
+                                                        <a href="shop.php">sunglass</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="shop.php">Category 04</a>
+                                                <ul class="submenu">
+                                                    <li>
+                                                        <a href="shop.php">Chair</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.php">Lather</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.php">Table</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.php">Clock</a>
                                                     </li>
                                                 </ul>
                                             </li>
