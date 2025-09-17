@@ -510,7 +510,7 @@
 
     </main>
     <!-- Main End -->
-     <?php include '/assets/allproducts.php';?>
+     <?php include 'allproducts.php';?>
 
     <!-- Footer -->
     <?php include '../../assets/footer.php';?>
