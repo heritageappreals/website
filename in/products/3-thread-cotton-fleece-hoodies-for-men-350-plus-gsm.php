@@ -510,14 +510,14 @@
 
     </main>
     <!-- Main End -->
-     <?php include 'allproducts.php';?>
+  
 
     <!-- Footer -->
     <?php include '../../assets/footer.php';?>
     <!-- Footer End -->
 
 
-
+   <?php include 'allproducts.php';?>
 
 
     <!-- JS here -->
