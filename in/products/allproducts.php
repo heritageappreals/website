@@ -1,10 +1,6 @@
 
 
- <?php include '../../assets/body.php';?>
-    <!-- Header -->
-    <?php include '../../assets/header.php';?>
-    <!-- Header end /-->
-    <!-- Header end /-->
+
 <?php
 // Path to the products folder
 $dir = __DIR__;
