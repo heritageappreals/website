@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>300 GSM Cotton Fleece Hoodie for Men – Bulk Supplier – Heritage Appreals Ludhiana</title>
+    <title>300 GSM Cotton Fleece Hoodie for Men – Bulk Supplier – Heritage Appreals</title>
     <meta name="description" content="Get 300 GSM Cotton Fleece Hoodies for Men from Heritage Appreals, Ludhiana in bulk quantities. Thick, warm, and perfect for wholesale, export, and branding purposes.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
