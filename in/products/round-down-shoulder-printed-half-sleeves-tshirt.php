@@ -68,7 +68,7 @@
                                     aria-labelledby="home-tab5">
 
 
-                                    <img src="img/allproducts/women-tracksuit-1.webp" class="img-fluid"
+                                    <img src="img/productimages/women-tracksuit-1.webp" class="img-fluid"
                                         alt="Round down shoulder printed T-shirt">
                                 </div>
 
@@ -83,21 +83,21 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/allproducts/women-tracksuit-1.webp"
+                                        <img src="img/productimages/women-tracksuit-1.webp"
                                             class="img-fluid" alt="T-shirt image 1" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="home-tab6" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="false">
-                                        <img src="img/allproducts/women-tracksuit-2.webp"
+                                        <img src="img/productimages/women-tracksuit-2.webp"
                                             class="img-fluid" alt="T-shirt image 2" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="home-tab7" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="false">
-                                        <img src="img/allproducts/women-tracksuit-3.webp"
+                                        <img src="img/productimages/women-tracksuit-3.webp"
                                             class="img-fluid" alt="T-shirt image 3" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
