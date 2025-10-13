@@ -12,14 +12,14 @@
     <meta property="og:type" content="product">
     <meta property="og:title" content="Round Down Shoulder T-Shirt, Half Sleeves, Printed">
     <meta property="og:description" content="Premium cotton blend, half sleeves, printed design. Multiple colors, sizes S-XL.">
-    <meta property="og:image" content="img/productimages/tshirt-round-shoulder-1.webp">
+    <meta property="og:image" content="img/allproducts/pro-details.jpg">
     <meta property="og:url" content="/in/products/round-down-shoulder-printed-half-sleeves-tshirt.php">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Round Down Shoulder T-Shirt, Half Sleeves, Printed">
     <meta name="twitter:description" content="Premium cotton blend, half sleeves, printed design. Multiple colors, sizes S-XL.">
-    <meta name="twitter:image" content="img/productimages/tshirt-round-shoulder-1.webp">
+    <meta name="twitter:image" content="img/allproducts/pro-details.jpg">
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
@@ -68,8 +68,8 @@
                                     aria-labelledby="home-tab5">
 
 
-                                    <img src="img/productimages/tshirt-round-shoulder-1.webp" class="img-fluid"
-                                        alt="Round down shoulder printed T-shirt black">
+                                    <img src="img/allproducts/pro-details.jpg" class="img-fluid"
+                                        alt="Round down shoulder printed T-shirt">
                                 </div>
 
                             
@@ -83,21 +83,21 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" id="home-tab5" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="true">
-                                        <img src="img/productimages/tshirt-round-shoulder-1.webp"
+                                        <img src="img/allproducts/pro-details-small-1.jpg"
                                             class="img-fluid" alt="T-shirt image 1" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="home-tab6" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="false">
-                                        <img src="img/productimages/tshirt-round-shoulder-2.webp"
+                                        <img src="img/allproducts/pro-details-small-2.jpg"
                                             class="img-fluid" alt="T-shirt image 2" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="home-tab7" data-toggle="tab" href="#home5" role="tab"
                                         aria-controls="home5" aria-selected="false">
-                                        <img src="img/productimages/tshirt-round-shoulder-3.webp"
+                                        <img src="img/allproducts/pro-details-small-3.jpg"
                                             class="img-fluid" alt="T-shirt image 3" style="width: 110px; height: 110px;">
                                     </a>
                                 </li>
